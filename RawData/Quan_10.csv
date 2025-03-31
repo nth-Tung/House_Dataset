@@ -1,0 +1,805 @@
+﻿Giá,Địa chỉ,Loại hình nhà ở,Diện tích đất,Số phòng ngủ,Số phòng vệ sinh,Tổng số tầng,Hướng ban công,Hướng cửa chính,Giấy tờ pháp lý
+"20,9 tỷ","462, Đường Vĩnh Viễn, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"63 m² (4,5x14,5)",5 phòng,4 WC,4,Đông Nam,Đông Nam,Sổ hồng
+12 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",50 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+"9,8 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"27,9 m² (3,1x9,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"33,6 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","80,8 m² (4,8x17,0)",6 phòng,5 WC,5,Tây Bắc,Tây Bắc,Sổ hồng
+49 tỷ,"Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM",Nhà mặt tiền,75 m²,N/A,N/A,8,N/A,N/A,Sổ hồng
+105 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"220 m² (8,4x27,0)",6 phòng,4 WC,4,N/A,Đông Nam,Sổ hồng
+"3,89 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","75 m² (5,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Hòa Hảo, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"10,3 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",6 phòng,6 WC,5,N/A,N/A,Sổ đỏ
+"3,25 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","55,2 m² (4,5x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,1 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",50 m²,4 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"1,23 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"68 m² (5,0x13,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","36,9 m² (4,1x9,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"4,4 tỷ","285, Đường Cách mạng tháng 8, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"21 m² (3,0x7,0)",1 phòng,2 WC,2,N/A,Tây Bắc,Sổ hồng
+21 tỷ,"9 , Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"40,1 m² (5,7x6,6)",2 phòng,2 WC,2,Tây Bắc,Tây Bắc,Sổ hồng
+14 tỷ,"Đường Lý Thường Kiệt, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",89 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"33 m² (3,0x11,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"6,9 tỷ","285/125/20, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (3,3x15,0)",3 phòng,4 WC,3,Đông Nam,Đông Nam,Sổ hồng
+"2,95 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","59,7 m² (4,4x13,5)",3 phòng,4 WC,2,N/A,N/A,Sổ đỏ
+"7,9 tỷ","357/..., Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","52 m² (6,0x9,0)",5 phòng,5 WC,2,Nam,Tây Nam,Sổ hồng
+"8,9 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,N/A,N/A,3,N/A,Đông Nam,Sổ hồng
+"6,5 tỷ","Đường Nguyễn Chí Thanh, Phường 3, Quận 10, TP.HCM","Nhà hẻm, ngõ",40 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,N/A,3,Tây Nam,Tây Nam,Giấy tờ hợp lệ
+11 tỷ,"Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"57 m² (4,0x15,0)",11 phòng,11 WC,N/A,N/A,N/A,Sổ hồng
+"17,5 tỷ","134, Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","66 m² (4,2x16,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"9,2 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,"25,6 m² (3,2x8,0)",2 phòng,1 WC,N/A,N/A,Đông,Sổ đỏ
+72 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,150 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+14 tỷ,"504, Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"51 m² (3,9x14,5)",N/A,N/A,2,Tây Nam,Tây Nam,Sổ hồng
+"24,5 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","100 m² (5,8x18,0)",15 phòng,16 WC,5,N/A,N/A,Sổ đỏ
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,9 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (4,8x19,0)",2 phòng,2 WC,N/A,N/A,Tây Nam,Sổ hồng
+18 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"62 m² (4,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,9 tỷ","116/19G, Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","36,3 m² (5,3x6,9)",4 phòng,4 WC,4,Tây Nam,Tây Nam,Sổ hồng
+"4,3 tỷ","Đường Lê Hồng Phong, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","29,2 m² (3,6x8,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","39 m² (4,5x8,9)",3 phòng,3 WC,2,Nam,Nam,Sổ hồng
+"6,3 tỷ","313, Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","27 m² (4,5x7,0)",4 phòng,3 WC,5,Tây,Tây,Sổ hồng
+"15,69 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (3,8x15,0)",4 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",64 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"31,5 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",47 m²,3 phòng,N/A,3,N/A,Tây Bắc,Sổ hồng
+"22,5 tỷ","Đường Bạch Mã, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"100 m² (4,0x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Ngô Quyền, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","53,2 m² (3,8x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",85 m²,6 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","42 m² (4,0x12,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường 3 Tháng 2, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","52 m² (4,7x11,0)",3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+95 tỷ,"283, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,320 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",51 m²,N/A,N/A,1,N/A,Đông Bắc,Sổ hồng
+"3,4 tỷ","Đường Nguyễn Tri Phương, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","53 m² (4,0x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,6 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,4 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+19 tỷ,"539, Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","67 m² (4,0x24,2)",8 phòng,8 WC,5,Nam,Nam,Sổ hồng
+"13,5 tỷ","Đường Sư Vạn Hạnh, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"43 m² (3,4x15,0)",N/A,N/A,3,N/A,Đông Bắc,Giấy tờ hợp lệ
+"3,2 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","46,5 m² (4,0x11,6)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+42 tỷ,"ID12945, Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"79 m² (8,0x18,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,61 m²,N/A,N/A,4,N/A,Tây Nam,Sổ hồng
+"3,8 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (5,0x16,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"26,8 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"62 m² (4,0x18,0)",9 phòng,9 WC,8,N/A,N/A,Sổ đỏ
+"1,12 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+14 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","125 m² (5,5x23,0)",7 phòng,7 WC,N/A,N/A,Đông Nam,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","85 m² (5,8x18,6)",15 phòng,16 WC,5,N/A,N/A,Sổ hồng
+"2,99 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+62 tỷ,"Đường số 6, Phường 12, Quận 10, TP.HCM","Biệt thự, Villa","154 m² (10,0x16,0)",10 phòng,10 WC,5,N/A,Tây Bắc,Sổ hồng
+"15,8 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"52 m² (4,0x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+50 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"133 m² (7,0x19,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,9 tỷ","462/2, Đường Điện Biên phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","15 m² (2,5x5,0)",2 phòng,1 WC,2,Đông,Đông,Sổ đỏ
+"7,8 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"120 m² (8,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,9 tỷ","495/55A, Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,8x12,0)",4 phòng,3 WC,3,N/A,Đông Nam,Sổ hồng
+"3,7 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","57 m² (3,5x15,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Sư Vạn Hạnh, Phường 3, Quận 10, TP.HCM","Nhà hẻm, ngõ","34 m² (3,5x10,0)",6 phòng,5 WC,4,N/A,N/A,Giấy tờ hợp lệ
+26 tỷ,"Đường Ngô Gia Tự, Phường 3, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (5,5x20,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"3,48 tỷ","Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM",Nhà mặt tiền,63 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+155 tỷ,"Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,360 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+72 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"140 m² (8,0x16,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"13,4 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","49 m² (3,8x13,0)",3 phòng,3 WC,4,N/A,Tây Bắc,Giấy tờ hợp lệ
+21 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+57 tỷ,"Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"195 m² (4,5x38,0)",11 phòng,11 WC,N/A,N/A,Tây Nam,Sổ hồng
+"7,9 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",62 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"6,85 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","50,2 m² (3,6x15,5)",2 phòng,2 WC,1,N/A,Đông Nam,Sổ hồng
+"4,99 tỷ","Đường Nguyễn Ngọc Lộc, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,2 phòng,N/A,2,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Ngô Quyền, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","53 m² (4,0x13,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x9,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"106 m² (4,5x24,0)",8 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+36 tỷ,"Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"120 m² (8,0x15,0)",7 phòng,14 WC,N/A,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","78 m² (5,0x15,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+29 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+23 tỷ,"9/8, Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","102 m² (6,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+20 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","84 m² (4,2x20,0)",10 phòng,N/A,5,N/A,N/A,Sổ hồng
+"12,7 tỷ","183/34, Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","56,5 m² (5,0x12,8)",3 phòng,3 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"7,95 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,4 phòng,N/A,3,N/A,Tây Nam,Sổ hồng
+6 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"31 m² (4,4x8,0)",2 phòng,1 WC,1,N/A,Đông Bắc,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",33 m²,3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"11,8 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa",78 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"16,5 tỷ","Đường Ngô Gia Tự, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,32 m²,N/A,N/A,4,N/A,Tây Bắc,Sổ hồng
+"5,5 tỷ","51/17, Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","15,5 m² (3,7x4,2)",2 phòng,3 WC,N/A,Đông Bắc,Đông Bắc,Sổ đỏ
+"5,25 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (4,2x7,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",4 phòng,4 WC,4,N/A,N/A,Sổ đỏ
+"4,8 tỷ","Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (3,1x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,3 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,2 phòng,N/A,2,N/A,N/A,Sổ hồng
+"7,25 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",36 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+"3,2 tỷ","493A, Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","20 m² (4,0x5,0)",3 phòng,3 WC,3,Tây Nam,Tây Nam,Sổ hồng
+"4,75 tỷ","Đường Ngô Gia Tự, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ",21 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"2,89 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",2 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,35 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"13,2 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",90 m²,4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"8,4 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","88 m² (4,0x13,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Hòa Hảo, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,4x10,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+23 tỷ,"ID9671, Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","75 m² (5,0x15,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"11,3 tỷ","292/5, Đường Bà Hạt, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","40,6 m² (3,5x11,6)",3 phòng,4 WC,4,Đông,Đông,Sổ đỏ
+"20,9 tỷ","462, Đường Vĩnh Viễn, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"62,3 m² (4,5x13,7)",5 phòng,4 WC,4,Nam,Nam,Sổ hồng
+"4,99 tỷ","Đường Trần Nhân Tôn, Phường 2, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"17,8 tỷ","494, Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"48,7 m² (3,3x14,8)",N/A,N/A,3,Tây,Tây,Sổ hồng
+"3,9 tỷ","Đường Bạch Mã, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"62 m² (5,2x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+14 tỷ,"Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",13 phòng,13 WC,N/A,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","68 m² (4,5x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+16 tỷ,"50, Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","76 m² (4,5x16,8)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,4 tỷ","Đường 3 Tháng 2, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","36 m² (3,8x9,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"2,45 tỷ","Đường Nhật Tảo, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","72 m² (6,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+18 tỷ,"Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","100 m² (5,0x20,0)",16 phòng,16 WC,5,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",72 m²,1 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+79 tỷ,"Đường Bạch Mã, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa",200 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"18,2 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",10 phòng,10 WC,5,N/A,Tây Nam,Sổ hồng
+24 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"76 m² (4,0x21,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"3,7 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",20 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+12 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",56 m²,9 phòng,N/A,5,N/A,Đông Nam,Sổ hồng
+"9,9 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","72 m² (5,8x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+85 tỷ,"121, Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"300 m² (15,0x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Hùng Vương, Phường 2, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,2 tỷ","439, Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","20 m² (4,0x5,0)",3 phòng,3 WC,3,Tây Nam,Tây Nam,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,1x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"9,2 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,3,N/A,Đông Bắc,Sổ hồng
+32 tỷ,"Đường Đồng Nai, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,130 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,75 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",4 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Hòa Hảo, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (4,0x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+115 tỷ,"Đường Thất Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"521 m² (19,7x26,6)",6 phòng,6 WC,6,N/A,Bắc,Sổ hồng
+"2,6 tỷ","Đường Điện Biên phủ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","20 m² (2,8x8,0)",2 phòng,2 WC,3,N/A,N/A,Sổ đỏ
+"5,2 tỷ","Đường Nguyễn Ngọc Lộc, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+26 tỷ,"Đường Nguyễn Chí Thanh, Phường 5, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"18,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"49 m² (3,3x15,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"33,5 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+996 triệu,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"12,2 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",55 m²,5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"4,65 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","57 m² (4,0x14,0)",4 phòng,5 WC,3,N/A,N/A,Sổ đỏ
+"10,2 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"2,35 tỷ","Đường Vĩnh Viễn, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",56 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Trần Minh Quyền, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",137 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"4,3 tỷ","Đường Lê Hồng Phong, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","66 m² (4,0x17,0)",6 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"9,45 tỷ","Đường Trần Bình Trọng, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","42 m² (3,5x13,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","65 m² (6,0x12,0)",N/A,N/A,N/A,Đông Nam,Đông Nam,Sổ hồng
+9 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"40 m² (4,0x10,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"132 m² (6,0x22,0)",7 phòng,8 WC,N/A,N/A,N/A,Sổ hồng
+26 tỷ,"Đường Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,3x16,0)",8 phòng,6 WC,6,N/A,N/A,Sổ hồng
+"14,2 tỷ","206, Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"58 m² (4,2x14,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"18,8 tỷ","Đường Hùng Vương, Phường 1, Quận 10, TP.HCM",Nhà mặt tiền,"57 m² (3,6x16,0)",5 phòng,6 WC,4,N/A,Đông Nam,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,3,N/A,Đông Nam,Sổ hồng
+"6,6 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",31 m²,N/A,N/A,4,N/A,Đông Bắc,Sổ hồng
+"14,45 tỷ","Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",90 m²,10 phòng,11 WC,4,N/A,N/A,Sổ hồng
+"3,9 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"1,65 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,58 tỷ","Đường Nguyễn Thượng Hiền, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,5x12,5)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","47,3 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+45 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"175 m² (8,5x20,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+"3,4 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"36,5 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,78 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","17,2 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,7 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",20 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"9,2 tỷ","Đường Bà Hạt, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",39 m²,N/A,N/A,5,N/A,Nam,Sổ hồng
+13 tỷ,"436B, Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",68 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","36 m² (3,3x11,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,4 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",91 m²,5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Trần Minh Quyền, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"58 m² (4,0x14,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"3,4 tỷ","Đường 3 Tháng 2, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,1 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (3,9x18,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"7,85 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"29 m² (3,7x8,0)",3 phòng,3 WC,3,N/A,N/A,Sổ đỏ
+13 tỷ,"Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",12 phòng,10 WC,N/A,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",70 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Thành Thái, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,9 tỷ","451/17/23, Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (6,0x16,0)",6 phòng,6 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"3,59 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","67,5 m² (4,5x15,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,88 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x12,2)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"18,88 tỷ","156/7/9, Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"23,5 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","125 m² (5,0x28,0)",19 phòng,22 WC,6,N/A,N/A,Giấy tờ hợp lệ
+"15,5 tỷ","Đường Lý Thường Kiệt, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (5,3x18,0)",1 phòng,1 WC,1,N/A,N/A,Giấy tờ hợp lệ
+71 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"144 m² (8,0x18,0)",N/A,N/A,N/A,N/A,Nam,Sổ hồng
+"11,5 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","240 m² (4,0x15,0)",6 phòng,N/A,4,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,26 m²,3 phòng,N/A,5,N/A,Đông Nam,Sổ hồng
+"64,7 tỷ","153A, Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"145 m² (8,0x18,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Nguyễn Kim, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,9x10,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"33,8 tỷ","87, Đường Cửu Long, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"76,6 m² (6,5x13,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Ngô Quyền, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","72 m² (4,5x15,0)",6 phòng,7 WC,4,N/A,N/A,Giấy tờ hợp lệ
+"9,9 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","71 m² (5,8x13,0)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"3,99 tỷ","93/, Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (3,0x12,0)",3 phòng,3 WC,2,Đông Nam,Nam,Sổ hồng
+28 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"70 m² (4,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+34 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","300 m² (15,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,8 tỷ","382/11, Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (4,0x6,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,4 phòng,3 WC,3,N/A,Đông Nam,Sổ hồng
+72 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"225 m² (15,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","29 m² (3,6x9,0)",5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"55,6 m² (3,2x17,6)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"131 m² (7,3x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+80 tỷ,"Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"301 m² (15,0x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,2 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",62 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,2,N/A,Đông Bắc,Sổ hồng
+24 tỷ,"626, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"75,5 m² (3,9x19,4)",N/A,N/A,2,Đông Nam,Đông Nam,Sổ hồng
+"22,8 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","125 m² (5,0x25,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+24 tỷ,"626, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"75,5 m² (3,9x19,3)",1 phòng,1 WC,1,N/A,N/A,Sổ hồng
+"10,5 tỷ","528, Đường Điện Biên phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x14,0)",6 phòng,7 WC,4,Đông Nam,Đông Nam,Sổ hồng
+37 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"73 m² (4,5x16,5)",11 phòng,12 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"10,5 tỷ","Đường Điện Biên phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","43 m² (4,0x13,5)",6 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"29,5 tỷ","531C, Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"96 m² (4,0x24,0)",N/A,N/A,7,Bắc,Bắc,Sổ hồng
+25 tỷ,"Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"93 m² (5,5x17,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"150 m² (7,5x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+42 tỷ,"241, Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"81,5 m² (4,0x21,8)",N/A,N/A,4,Tây Bắc,Tây Bắc,Sổ hồng
+"25,9 tỷ","487, Đường Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"186 m² (4,0x15,0)",N/A,N/A,5,N/A,N/A,Sổ đỏ
+30 tỷ,"Đường Cao Thắng, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"87 m² (4,0x15,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"25,9 tỷ","487, Đường Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"42 m² (3,5x14,0)",N/A,N/A,5,Đông,Đông,Sổ hồng
+"23,2 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","98 m² (6,0x18,0)",6 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"3,8 tỷ","211//, Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","18 m² (3,5x5,5)",2 phòng,1 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+"9,99 tỷ","607A, Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"58,1 m² (4,0x15,0)",2 phòng,2 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+78 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"123 m² (8,0x16,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Trần Nhân Tôn, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ","36 m² (4,0x9,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+72 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"140 m² (8,0x17,0)",5 phòng,5 WC,2,N/A,N/A,Sổ hồng
+"2,28 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","17 m² (4,3x4,0)",2 phòng,2 WC,N/A,Đông Bắc,Đông Bắc,Sổ hồng
+"3,99 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (4,0x10,0)",2 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,99 tỷ","93/10, Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","27 m² (2,8x11,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Trần Nhân Tôn, Phường 2, Quận 10, TP.HCM","Biệt thự, Villa","58 m² (4,5x13,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Bà Hạt, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"70 m² (8,3x10,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"26,7 tỷ","Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"85 m² (6,5x12,0)",8 phòng,8 WC,5,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,5 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+62 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"110 m² (7,0x16,0)",5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"18,9 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,45 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","57,5 m² (4,6x12,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,45 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","63 m² (4,5x14,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"4,35 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,48 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","46 m² (4,0x11,5)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"11,8 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",64 m²,N/A,N/A,N/A,N/A,Đông Bắc,Sổ hồng
+"8,5 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+29 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",119 m²,N/A,N/A,6,N/A,Nam,Sổ hồng
+"2,65 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,56 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",33 m²,3 phòng,5 WC,5,N/A,N/A,Sổ đỏ
+"16,5 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","105 m² (4,5x20,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"76 m² (3,8x20,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,55 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,45 tỷ","Đường Hùng Vương, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","61,6 m² (4,4x14,0)",4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","42,9 m² (4,0x10,7)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"14,7 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (5,0x16,0)",10 phòng,110 WC,4,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"5,83 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",31 m²,3 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Hợp đồng mua bán
+"3,05 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",53 m²,2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Đồng Nai, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"115 m² (5,0x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"170 m² (7,0x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,4,N/A,Tây Nam,Sổ hồng
+"10,95 tỷ","Đường Nhật Tảo, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,36 m²,3 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"4,9 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Sư Vạn Hạnh, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","62,6 m² (4,2x16,0)",5 phòng,5 WC,5,N/A,Tây Bắc,Sổ hồng
+"3,35 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (4,2x14,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+6 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","31 m² (4,4x8,0)",2 phòng,1 WC,1,N/A,Đông Bắc,Sổ hồng
+8 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (3,5x16,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"3,24 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (5,0x12,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Nguyễn Tiểu La, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","47 m² (4,0x11,5)",12 phòng,6 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"3,05 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",64 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,2 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",26 m²,N/A,N/A,3,N/A,Bắc,Sổ hồng
+"1,75 tỷ","Đường Sư Vạn Hạnh, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"3,9 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","51 m² (4,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Điện Biên phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",56 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,1 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","41,3 m² (5,9x7,8)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa",78 m²,4 phòng,6 WC,4,N/A,Đông Bắc,Sổ hồng
+"9,4 tỷ","Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,5x13,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+970 triệu,"Đường Thành Thái, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"6,7 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,34 m²,N/A,N/A,3,N/A,Đông Bắc,Sổ hồng
+58 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Biệt thự, Villa","240 m² (15,0x16,0)",N/A,N/A,4,N/A,N/A,Giấy tờ hợp lệ
+"13,6 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","40,7 m² (4,1x10,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"24,5 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"110 m² (10,0x11,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,4 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+17 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (6,0x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",48 m²,4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"9,2 tỷ","Đường Tân Phước, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","47 m² (3,7x14,3)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Nguyễn Tiểu La, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (4,5x8,6)",3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"14,9 tỷ","203, Đường Vĩnh Viễn, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"30,6 m² (3,4x8,9)",2 phòng,1 WC,1,N/A,N/A,Sổ hồng
+"16,5 tỷ","Đường Lý Thường Kiệt, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","358 m² (6,0x26,0)",12 phòng,12 WC,3,N/A,N/A,Sổ hồng
+"3,35 tỷ","606/147/3, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (5,0x5,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"2,35 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","62,3 m² (4,5x13,8)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",2 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"26,5 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",130 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,45 tỷ","Đường Hòa Hảo, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+15 tỷ,"Hẻm 462, Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","46,4 m² (3,4x13,5)",6 phòng,3 WC,4,N/A,N/A,Sổ đỏ
+"11,5 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (6,5x13,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (3,3x12,5)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+43 tỷ,"52CT, Đường Tam Đảo, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"160 m² (8,0x20,0)",6 phòng,4 WC,1,N/A,Đông Nam,Sổ đỏ
+27 tỷ,"Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,8x15,0)",8 phòng,7 WC,N/A,N/A,N/A,Sổ đỏ
+9 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","39 m² (4,8x8,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","89 m² (4,5x24,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",47 m²,N/A,N/A,4,N/A,Đông Nam,Sổ hồng
+"11,8 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",87 m²,6 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+"8,2 tỷ","Đường nội bộ 702 hồng bàng , Đường Hồng Bàng, Phường 1, Quận 10, TP.HCM",Nhà mặt tiền,"51 m² (3,4x15,0)",4 phòng,3 WC,3,N/A,Đông,Sổ hồng
+"9,3 tỷ","Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,6 phòng,N/A,5,N/A,Đông Bắc,Sổ hồng
+"15,5 tỷ","80A, Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"60,5 m² (4,0x20,0)",N/A,N/A,5,N/A,Đông Nam,Sổ đỏ
+33 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","171 m² (11,0x16,0)",5 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+19 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (6,0x15,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"15,7 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (3,8x15,5)",5 phòng,4 WC,5,N/A,Đông Nam,Sổ hồng
+"12,7 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",62 m²,N/A,N/A,5,N/A,Đông Nam,Sổ hồng
+"12,5 tỷ","Đường Tam Đảo, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"50 m² (5,0x11,0)",2 phòng,3 WC,3,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+65 tỷ,"49, Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","521 m² (18,0x28,0)",8 phòng,6 WC,3,Nam,Nam,Sổ hồng
+"3,15 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","150 m² (9,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"23,3 tỷ","285, Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",6 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",3 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"8,6 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"7,7 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"26 m² (3,5x7,2)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Nguyễn Chí Thanh, Phường 14, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+30 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,2x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+"8,9 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (3,8x12,0)",4 phòng,3 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"3,98 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (3,9x8,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"13,8 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",81 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Lê Hồng Phong, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","67,9 m² (4,5x15,0)",2 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,25 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","42 m² (4,0x11,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","38,5 m² (3,5x11,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,14 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+45 tỷ,"243, Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Biệt thự, Villa","170 m² (9,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"16,8 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","139 m² (8,5x16,0)",6 phòng,N/A,2,N/A,N/A,Sổ hồng
+"19,9 tỷ","9, Đường Bắc Hải, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"70 m² (3,5x20,0)",14 phòng,14 WC,7,N/A,N/A,Sổ hồng
+41 tỷ,"Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"139 m² (15,0x12,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",49 m²,2 phòng,2 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"8,45 tỷ","606, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,1 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"15,7 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"108 m² (4,5x24,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"6,85 tỷ","Đường Nguyễn Kim, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ","31,1 m² (10,1x3,3)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (5,0x12,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"14,7 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","86 m² (4,2x13,0)",10 phòng,10 WC,N/A,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"105 m² (4,2x25,0)",5 phòng,6 WC,7,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM",Nhà mặt tiền,"110 m² (5,0x25,0)",12 phòng,12 WC,5,N/A,N/A,Sổ đỏ
+29 tỷ,"624, Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"81,7 m² (4,1x18,3)",N/A,N/A,5,Đông Nam,Đông Nam,Sổ hồng
+"5,5 tỷ","Đường Bắc Hải, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",54 m²,N/A,N/A,N/A,N/A,Tây Bắc,Sổ hồng
+8 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","33 m² (3,2x11,0)",3 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x18,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"44,99 tỷ","Đường Sư Vạn Hạnh, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"63 m² (4,2x17,0)",8 phòng,8 WC,6,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"5,55 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",78 m²,4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"8,95 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (5,0x12,0)",4 phòng,4 WC,3,N/A,N/A,Sổ đỏ
+"1,23 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",63 m²,3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"5,05 tỷ","Đường Ngô Quyền, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","36 m² (3,6x10,0)",4 phòng,3 WC,3,N/A,N/A,Sổ đỏ
+"6,9 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",55 m²,3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"4,58 tỷ","Đường Thành Thái, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","83 m² (4,0x20,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+"3,4 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","14 m² (3,0x5,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",39 m²,3 phòng,N/A,4,N/A,Đông Bắc,Sổ hồng
+3 tỷ,"Đường Trần Minh Quyền, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","56,8 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,4 WC,6,N/A,N/A,Giấy tờ hợp lệ
+"12,35 tỷ","Đường Tân Phước, Phường 6, Quận 10, TP.HCM",Nhà mặt tiền,"48 m² (3,2x16,0)",3 phòng,2 WC,2,N/A,N/A,Sổ đỏ
+14 tỷ,"298, Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,79 tỷ","Đường Lý Thái Tổ, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Lê Hồng Phong, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"5,99 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Lê Hồng Phong, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"51 m² (3,8x14,0)",2 phòng,2 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+37 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,5)",12 phòng,13 WC,4,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (3,7x24,0)",N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+35 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Biệt thự, Villa","98 m² (6,0x16,0)",6 phòng,7 WC,6,N/A,N/A,Sổ đỏ
+"4,2 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","47 m² (3,6x13,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Bửu Long, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ",48 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"9,95 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",54 m²,8 phòng,8 WC,6,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,69 m²,9 phòng,N/A,5,N/A,Tây Bắc,Sổ hồng
+"12,5 tỷ","Đường Nguyễn Lâm, Phường 6, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"6,5 tỷ","Đường Lý Thường Kiệt, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (5,0x16,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Hương Giang, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"86 m² (6,3x14,0)",4 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"6,2 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","35 m² (3,2x12,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"6,5 tỷ","462/25, Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",28 m²,3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",57 m²,N/A,N/A,3,N/A,Đông Bắc,Sổ hồng
+20 tỷ,"666/64/34, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","63,7 m² (5,2x12,1)",4 phòng,4 WC,4,Bắc,Bắc,Sổ hồng
+14 tỷ,"298, Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"58 m² (3,0x18,0)",N/A,1 WC,2,Tây Nam,Tây Nam,Sổ hồng
+825 triệu,"Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"3,9 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",37 m²,4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+41 tỷ,"73, Đường Ngô Gia Tự, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,"137,1 m² (5,0x26,5)",N/A,N/A,5,Tây Bắc,Tây Bắc,Sổ hồng
+28 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",7 phòng,8 WC,4,N/A,N/A,Sổ hồng
+"14,3 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",58 m²,5 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (4,0x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"60,4 m² (4,0x20,0)",7 phòng,5 WC,5,N/A,Đông Nam,Sổ hồng
+"6,3 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (3,8x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",48 m²,3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","115 m² (6,0x20,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","62,9 m² (5,0x13,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","49 m² (4,3x10,0)",4 phòng,3 WC,2,N/A,Tây Bắc,Sổ hồng
+38 tỷ,"Đường Thất Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"151 m² (6,0x26,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"48,5 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"174,5 m² (8,5x18,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,50 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+"8,5 tỷ","451/, Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","44,5 m² (4,1x12,0)",3 phòng,2 WC,2,N/A,Đông Nam,Sổ hồng
+29 tỷ,"436/, Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","122 m² (6,5x20,0)",4 phòng,3 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+78 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,123 m²,N/A,N/A,6,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",65 m²,N/A,N/A,1,N/A,N/A,Sổ hồng
+"1,55 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","33,5 m² (3,9x8,5)",2 phòng,2 WC,2,N/A,N/A,Sổ đỏ
+"5,6 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"30 m² (3,0x10,0)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"1,15 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"63 m² (4,0x15,8)",3 phòng,2 WC,1,N/A,Đông Nam,Sổ hồng
+"2,55 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","46 m² (4,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,99 tỷ","Đường Nguyễn Lâm, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"73 m² (3,9x20,6)",N/A,N/A,N/A,N/A,Đông Bắc,Sổ hồng
+"12,5 tỷ","209, Đường Tân Phước, Phường 6, Quận 10, TP.HCM",Nhà mặt tiền,"47,8 m² (3,2x16,0)",N/A,N/A,2,Tây Bắc,Tây Bắc,Sổ hồng
+"16,7 tỷ","Đường Nguyễn Tri Phương, Phường 6, Quận 10, TP.HCM",Nhà mặt tiền,"47 m² (4,3x11,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"17,9 tỷ","Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,96 m²,N/A,N/A,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,5x13,0)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"11,7 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+43 tỷ,"Đường Hùng Vương, Phường 1, Quận 10, TP.HCM",Nhà mặt tiền,"125 m² (8,4x24,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,89 tỷ","Đường Vĩnh Viễn, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"1,02 tỷ","Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","62 m² (4,5x13,7)",3 phòng,3 WC,1,N/A,Đông Nam,Sổ hồng
+8 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (3,5x18,0)",3 phòng,2 WC,N/A,N/A,Tây,Sổ hồng
+"12,49 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","53 m² (5,0x10,0)",2 phòng,3 WC,2,N/A,N/A,Sổ hồng
+31 tỷ,"Đường Nguyễn Giản Thanh, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"120 m² (6,0x20,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"6,7 tỷ","Đường Nguyễn Ngọc Lộc, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+40 tỷ,"Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"139 m² (14,7x10,0)",6 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+27 tỷ,"Đường Nguyễn Tri Phương, Phường 3, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,8x15,0)",7 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+"6,8 tỷ","Đường Tam Đảo, Phường 15, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"6,2 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,5x13,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,1 tỷ","Đường Lê Hồng Phong, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",63 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","122/9, Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","41 m² (3,3x12,5)",2 phòng,1 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+12 tỷ,"Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",47 m²,4 phòng,N/A,4,N/A,Nam,Sổ hồng
+"6,5 tỷ","122/9, Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","41 m² (3,3x12,5)",2 phòng,1 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+"6,5 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",39 m²,3 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+5 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15 tỷ,"Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","78 m² (5,0x14,0)",4 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Bửu Long, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ",48 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+65 tỷ,"Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","260 m² (11,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+29 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Biệt thự, Villa","113 m² (6,6x19,0)",4 phòng,3 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"11,8 tỷ","Đường Cách Mạng Tháng 8, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","66 m² (4,5x15,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"5,6 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","24,5 m² (2,9x9,5)",3 phòng,4 WC,5,N/A,Tây,Sổ hồng
+16 tỷ,"Đường Sư Vạn Hạnh, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (4,3x15,0)",5 phòng,6 WC,N/A,N/A,Tây Bắc,Sổ hồng
+35 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","145 m² (7,8x20,0)",5 phòng,6 WC,4,N/A,N/A,Giấy tờ hợp lệ
+49 tỷ,"Đường Ba Vì, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"205 m² (8,0x25,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+19 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","72 m² (4,5x16,0)",5 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"23,2 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"103 m² (6,0x18,0)",12 phòng,13 WC,N/A,N/A,N/A,Sổ hồng
+18 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","116 m² (6,0x19,0)",4 phòng,4 WC,4,N/A,Nam,Sổ hồng
+"5,15 tỷ","Hẻm 571, Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (4,1x7,6)",2 phòng,2 WC,1,Đông Nam,Đông Nam,Sổ hồng
+"7,9 tỷ","Đường Đồng Nai, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (6,6x8,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","24,6 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,95 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",54 m²,2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"8,2 tỷ","Đường Lạc Long Quân, Phường 15, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+18 tỷ,"Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,78 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","58,8 m² (4,2x14,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",84 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,9 tỷ","Đường Thành Thái, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","68 m² (4,3x16,0)",4 phòng,4 WC,4,N/A,N/A,Sổ đỏ
+"2,65 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"36,5 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,5x18,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Lạc Long Quân, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"75,8 m² (4,0x22,0)",5 phòng,5 WC,5,N/A,Đông Nam,Sổ hồng
+"3,65 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x14,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"10,6 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,6 phòng,N/A,5,N/A,Đông Nam,Sổ hồng
+"20,9 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"50 m² (6,0x8,0)",3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+39 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"120 m² (4,0x23,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+18 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","115,4 m² (6,0x19,0)",10 phòng,10 WC,4,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ",75 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,2 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","61,1 m²",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+20 tỷ,"506, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (8,0x10,0)",10 phòng,11 WC,5,N/A,Đông Nam,Sổ hồng
+"21,6 tỷ","35, Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"37,6 m² (4,0x10,8)",5 phòng,3 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"1,1 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ",63 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+65 tỷ,"Đường Ngô Gia Tự, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"110 m² (7,7x15,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Lê Hồng Phong, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","36 m² (3,0x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"73 m² (4,0x18,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+18 tỷ,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,4 tỷ","Đường Nguyễn Lâm, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+970 triệu,"Đường Thành Thái, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","61 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Sư Vạn Hạnh, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,4,N/A,Nam,Sổ hồng
+23 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","83 m² (5,0x17,0)",11 phòng,11 WC,5,N/A,N/A,Sổ hồng
+"3,08 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","69 m² (4,0x17,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","85 m² (5,8x18,6)",15 phòng,16 WC,6,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"68 m² (5,0x15,0)",N/A,N/A,8,N/A,N/A,Sổ hồng
+961 triệu,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"9,75 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"29 m² (3,2x9,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+940 triệu,"Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"26,5 m² (3,5x1,4)",2 phòng,2 WC,1,N/A,Tây Nam,Sổ hồng
+6 tỷ,"Đường Lê Hồng Phong, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",40 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa",78 m²,4 phòng,N/A,4,N/A,Đông Bắc,Sổ hồng
+11 tỷ,"189, Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"26,1 m² (3,1x8,5)",N/A,N/A,3,Tây Bắc,Tây Bắc,Sổ hồng
+22 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","96 m² (6,0x12,0)",3 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"9,9 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,4 phòng,4 WC,3,N/A,Đông Nam,Sổ hồng
+7 tỷ,"Đường Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",N/A,N/A,4,N/A,N/A,Giấy tờ hợp lệ
+"16,3 tỷ","Hẻm 575, Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","108 m² (5,0x21,0)",5 phòng,6 WC,4,Đông Bắc,Đông Bắc,Sổ hồng
+24 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,75 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+31 tỷ,"Đường Lê Hồng Phong, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"100 m² (5,0x20,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+32 tỷ,"82, Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,2x22,2)",8 phòng,6 WC,5,Đông Nam,Đông Nam,Sổ hồng
+"22,5 tỷ","EE5, Đường Bạch Mã, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"94 m² (4,0x24,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"19,5 tỷ","126, Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (8,0x8,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+24 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,72 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+38 tỷ,"91 93, Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"140 m² (10,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+40 tỷ,"Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"140 m² (15,0x10,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,6 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","27 m² (4,2x7,0)",2 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,01 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","37,6 m² (3,1x12,1)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"2,92 tỷ","Đường Hòa Hảo, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","17 m² (6,0x3,0)",2 phòng,2 WC,2,Tây,Tây,Sổ hồng
+30 tỷ,"Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"141 m² (6,4x26,0)",8 phòng,9 WC,N/A,N/A,N/A,Sổ hồng
+"9,8 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,7 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,5 phòng,4 WC,3,N/A,Đông Nam,Sổ hồng
+16 tỷ,"585/3, Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","68 m² (4,3x16,0)",10 phòng,10 WC,5,N/A,N/A,Sổ hồng
+"11,99 tỷ","Đường Hoà Hưng, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",62 m²,N/A,N/A,4,N/A,Đông Bắc,Sổ hồng
+18 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",98 m²,10 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+20 tỷ,"9, Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"40 m² (5,8x7,0)",5 phòng,5 WC,2,N/A,N/A,Sổ hồng
+27 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (5,0x16,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"10,8 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",55 m²,N/A,N/A,5,N/A,N/A,Sổ hồng
+38 tỷ,"224/20 - 224/22, Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","213,2 m² (10,0x20,0)",31 phòng,32 WC,3,Bắc,Bắc,Sổ hồng
+22 tỷ,"163/55, Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","94 m² (6,0x18,0)",8 phòng,8 WC,6,Tây Bắc,Tây Bắc,Sổ hồng
+29 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"126 m² (8,0x16,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"7,3 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"6,49 tỷ","357/, Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","34,1 m² (3,8x9,0)",2 phòng,2 WC,1,N/A,N/A,Sổ đỏ
+"17,5 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","115 m² (6,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,75 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5 tỷ,"216/54, Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+25 tỷ,"606/71, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","139 m² (5,1x32,0)",22 phòng,22 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+87 tỷ,"Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"167 m² (10,0x25,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"48,5 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"175 m² (9,0x23,0)",9 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Nhật Tảo, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (6,0x11,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","85 m² (5,8x18,6)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"17,9 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"96 m² (6,0x16,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+37 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+42 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",22 phòng,22 WC,N/A,N/A,Tây Nam,Sổ hồng
+"9,8 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,0x14,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"31,9 tỷ","436/4A, Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Biệt thự, Villa","180 m² (13,0x15,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"4,35 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","41 m² (3,2x12,0)",3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"3,3 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+60 tỷ,"Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"122 m² (5,7x23,0)",10 phòng,12 WC,6,N/A,N/A,Sổ hồng
+27 tỷ,"Đường Ngô Quyền, Phường 6, Quận 10, TP.HCM",Nhà mặt tiền,"150 m² (6,5x22,0)",5 phòng,5 WC,7,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,2 phòng,N/A,2,N/A,Đông Bắc,Sổ hồng
+"14,7 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","90 m² (5,0x16,0)",10 phòng,11 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (3,3x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"54 m² (4,5x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"606, Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,5)",2 phòng,N/A,N/A,N/A,Đông,Sổ hồng
+14 tỷ,"298, Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"54 m² (3,0x18,0)",N/A,N/A,2,Bắc,Bắc,Sổ hồng
+"1,99 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","9 m² (3,0x3,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"1,75 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","10 m² (4,0x2,5)",N/A,N/A,1,N/A,Nam,Sổ hồng
+"8,2 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (8,0x8,0)",3 phòng,3 WC,N/A,Đông,N/A,Sổ hồng
+"4,35 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","41 m² (3,3x12,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"16,4 tỷ","Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",7 phòng,8 WC,5,N/A,Đông Nam,Sổ hồng
+"5,5 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,3,N/A,Bắc,Sổ hồng
+"37,5 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"99 m² (4,3x22,0)",9 phòng,9 WC,5,N/A,Đông Nam,Sổ hồng
+25 tỷ,"Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,82 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",59 m²,7 phòng,N/A,2,N/A,Đông Nam,Sổ hồng
+15 tỷ,"Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","87 m² (5,0x17,5)",3 phòng,1 WC,1,Đông Bắc,Đông Bắc,Sổ hồng
+"12,5 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,40 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+"6,2 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",29 m²,3 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"7,95 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (3,3x16,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+20 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"84 m² (8,4x10,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"75 m² (5,0x15,0)",N/A,N/A,8,N/A,N/A,Sổ hồng
+42 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"68,2 m² (4,0x17,0)",N/A,N/A,10,N/A,N/A,Sổ hồng
+"16,4 tỷ","Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",7 phòng,8 WC,N/A,N/A,N/A,Sổ hồng
+"8,85 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"8,59 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+17 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",118 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"5,28 tỷ","Đường Ngô Quyền, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","35 m² (3,6x10,0)",4 phòng,3 WC,N/A,N/A,Đông,Sổ hồng
+"2,9 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","17,2 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,9 tỷ","357/7A, Đường Cách Mạng Tháng 8, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (6,0x9,0)",5 phòng,5 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"9,8 tỷ","7B/, Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","41,2 m² (3,3x13,0)",5 phòng,5 WC,5,N/A,Đông Nam,Sổ hồng
+53 tỷ,"14, Đường Nguyễn Tiểu La, Phường 5, Quận 10, TP.HCM",Nhà mặt tiền,"176 m² (8,8x20,0)",4 phòng,3 WC,3,N/A,N/A,Sổ đỏ
+"8,6 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (4,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"7,5 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","53,3 m² (3,0x18,0)",4 phòng,4 WC,3,N/A,N/A,Sổ đỏ
+"3,2 tỷ","Đường Nguyễn Chí Thanh, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ","16,9 m² (2,6x9,0)",2 phòng,3 WC,3,Đông,Đông,Sổ hồng
+"9,5 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","45,4 m² (3,0x18,0)",8 phòng,8 WC,5,N/A,Đông Nam,Giấy tờ hợp lệ
+"7,8 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",28 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+32 tỷ,"162, Đường Cao Thắng, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"85 m² (6,3x13,8)",3 phòng,2 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"5,2 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,6 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (5,0x4,9)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",74 m²,7 phòng,N/A,4,N/A,Nam,Sổ hồng
+45 tỷ,"78, Đường Hùng Vương, Phường 1, Quận 10, TP.HCM",Nhà mặt tiền,"124,7 m² (8,4x24,4)",N/A,N/A,2,Đông Nam,Đông Nam,Sổ hồng
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,3 phòng,N/A,3,N/A,Tây Nam,Sổ hồng
+"16,5 tỷ","449, Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"53,9 m² (4,0x14,0)",5 phòng,4 WC,5,N/A,N/A,Sổ đỏ
+"8,5 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+12 tỷ,"207, Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","51 m² (4,2x12,0)",1 phòng,1 WC,1,Đông Bắc,Đông Bắc,Sổ hồng
+"10,5 tỷ","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,7 phòng,N/A,2,N/A,Đông Nam,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","108 m² (5,8x18,6)",15 phòng,15 WC,6,Đông Nam,Đông Nam,Sổ hồng
+12 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",48 m²,N/A,N/A,2,N/A,Bắc,Sổ hồng
+5 tỷ,"Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"15,5 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","88 m² (5,3x18,0)",2 phòng,2 WC,1,N/A,N/A,Giấy tờ hợp lệ
+"20,5 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","88 m² (5,0x18,0)",8 phòng,10 WC,5,N/A,N/A,Giấy tờ hợp lệ
+10 tỷ,"77a, Đường Ngô Quyền, Phường 6, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"9,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x17,0)",6 phòng,7 WC,5,N/A,N/A,Giấy tờ hợp lệ
+"4,6 tỷ","Đường Điện Biên Phủ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (4,3x7,5)",2 phòng,N/A,2,N/A,N/A,Sổ hồng
+"7,9 tỷ","102, Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","69 m² (5,0x15,0)",2 phòng,2 WC,1,Tây,Tây,Sổ hồng
+"15,5 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x17,0)",5 phòng,6 WC,5,N/A,N/A,Giấy tờ hợp lệ
+"17,9 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"52 m² (4,0x13,0)",3 phòng,3 WC,2,N/A,N/A,Giấy tờ hợp lệ
+"23,6 tỷ","Đường Bắc Hải, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"115 m² (6,0x20,0)",3 phòng,4 WC,2,N/A,N/A,Giấy tờ hợp lệ
+"5,9 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","27,5 m² (3,2x8,5)",3 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"13,5 tỷ","Đường Nguyễn Giản Thanh, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+7 tỷ,"Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ",55 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+"6,38 tỷ","Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","80 m² (7,5x11,0)",N/A,N/A,N/A,Đông Bắc,Đông Bắc,Sổ hồng
+79 tỷ,"U12A, Đường Bạch Mã, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa","189,1 m² (8,0x25,0)",N/A,N/A,5,Bắc,Bắc,Sổ hồng
+148 tỷ,"Đường Ngô Quyền, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"500 m² (16,5x25,0)",2 phòng,3 WC,1,N/A,Tây,Sổ hồng
+17 tỷ,"Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"49 m² (3,3x15,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+30 tỷ,"162, Đường Cao Thắng, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"84,8 m² (4,0x9,0)",N/A,N/A,2,N/A,N/A,Sổ đỏ
+"28,88 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","99,6 m² (7,0x14,0)",8 phòng,6 WC,4,Tây Bắc,Tây Bắc,Sổ hồng
+22 tỷ,"Đường Trần Minh Quyền, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"47,2 m² (4,0x13,0)",N/A,N/A,N/A,N/A,Đông Bắc,Sổ hồng
+"19,5 tỷ","Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",6 phòng,6 WC,4,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Trần Minh Quyền, Phường 10, Quận 10, TP.HCM",Nhà mặt tiền,"79 m² (4,0x20,0)",N/A,N/A,N/A,N/A,Đông Bắc,Sổ hồng
+"49,99 tỷ","5xx, Đường Lê Hồng Phong, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"145 m² (8,4x20,0)",8 phòng,8 WC,7,N/A,Tây Bắc,Sổ hồng
+"6,9 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,4,N/A,Bắc,Sổ hồng
+"12,9 tỷ","Đường Nguyễn Giản Thanh, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,64 m²,4 phòng,N/A,4,N/A,N/A,Sổ hồng
+"8,3 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",33 m²,6 phòng,N/A,4,N/A,Nam,Sổ hồng
+75 tỷ,"230A, Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"140 m² (7,4x21,0)",9 phòng,12 WC,9,N/A,Đông Nam,Sổ hồng
+22 tỷ,"174a, Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"95 m² (5,0x22,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+65 tỷ,"284c, Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"272 m² (16,0x18,0)",5 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+19 tỷ,"Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","105 m² (7,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+30 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"90 m² (6,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+"12,15 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","43 m² (3,9x11,0)",6 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"2,7 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","15 m² (3,0x5,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"22,9 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","83 m² (5,0x16,5)",11 phòng,12 WC,5,Tây Bắc,Tây Bắc,Sổ hồng
+22 tỷ,"174a, Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"95 m² (5,0x22,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"105 m² (4,2x25,0)",6 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"9,9 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,5,N/A,Tây Bắc,Sổ hồng
+"9,8 tỷ","7, Đường Thành Thái, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"42,7 m²",N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+"26,5 tỷ","Đường Nguyễn Ngọc Lộc, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"104 m² (4,5x28,0)",6 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"7,4 tỷ","Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,33 m²,3 phòng,3 WC,3,N/A,Đông Bắc,Sổ hồng
+23 tỷ,"Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"85 m² (5,0x17,0)",11 phòng,12 WC,5,N/A,N/A,Sổ hồng
+25 tỷ,"343/17M, Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","52,8 m² (6,0x16,0)",5 phòng,5 WC,4,Tây Bắc,Tây Bắc,Sổ hồng
+"31,9 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM","Biệt thự, Villa","171 m² (12,0x15,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","31 m² (3,1x10,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"6,6 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ","31 m² (3,1x10,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+19 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,47 m²,N/A,N/A,3,N/A,Nam,Sổ hồng
+19 tỷ,"Đường Trần Minh Quyền, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"62 m² (4,7x12,0)",5 phòng,6 WC,3,Tây Nam,N/A,Sổ hồng
+34 tỷ,"163/19, Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","96,5 m² (6,0x16,0)",6 phòng,7 WC,5,Tây Bắc,Tây Bắc,Sổ hồng
+"7,9 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,"41 m² (4,0x10,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+14 tỷ,"Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (3,7x10,8)",8 phòng,7 WC,N/A,Tây Nam,Tây Nam,Sổ hồng
+"5,45 tỷ","158/, Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (3,5x10,0)",4 phòng,4 WC,3,Tây Nam,Tây,Sổ hồng
+"47,9 tỷ","Đường Nguyễn Chí Thanh, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ",290 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,65 tỷ","Đường 3 Tháng 2, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (3,2x10,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"12,3 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Biệt thự, Villa","85 m² (6,6x13,5)",N/A,N/A,N/A,N/A,Tây Nam,Sổ hồng
+58 tỷ,"Đường Hoàng Dư Khương, Phường 12, Quận 10, TP.HCM","Biệt thự, Villa",270 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,8 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",34 m²,3 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+"5,7 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",26 m²,3 phòng,4 WC,4,N/A,Nam,Sổ hồng
+"4,3 tỷ","Đường Sư Vạn Hạnh, Phường 9, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"4,6 tỷ","282/, Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","28,3 m² (3,0x9,3)",2 phòng,2 WC,2,N/A,Tây Bắc,Sổ đỏ
+8 tỷ,"115, Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM",Nhà mặt tiền,"26 m² (3,6x7,2)",3 phòng,3 WC,3,Bắc,Bắc,Sổ hồng
+"9,5 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",7 phòng,N/A,3,N/A,N/A,Sổ hồng
+"2,88 tỷ","Đường Lê Hồng Phong, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (4,0x11,3)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,53 m²,N/A,N/A,2,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Bạch Mã, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+52 tỷ,"216, Đường Nguyễn Duy Dương, Phường 3, Quận 10, TP.HCM",Nhà mặt tiền,"83,8 m² (4,6x18,3)",6 phòng,5 WC,5,Tây Bắc,Tây Bắc,Sổ hồng
+"18,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,50 m²,4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"26,5 tỷ","Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"100 m² (5,1x20,0)",9 phòng,10 WC,N/A,N/A,N/A,Sổ hồng
+"6,8 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,4 WC,N/A,N/A,Đông Nam,Sổ hồng
+"12,3 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",87 m²,6 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+"8,5 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","37,9 m² (4,0x12,2)",4 phòng,3 WC,5,N/A,Tây Nam,Sổ đỏ
+"8,9 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",56 m²,6 phòng,5 WC,5,N/A,N/A,Giấy tờ hợp lệ
+29 tỷ,"Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","115 m² (6,5x20,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"11,2 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,4,Đông,Đông,Sổ hồng
+"2,68 tỷ","Đường Ngô Quyền, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","54 m² (4,0x13,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Nguyễn Chí Thanh, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ","86 m² (8,0x11,0)",7 phòng,5 WC,2,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","67 m² (4,5x14,8)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+2 tỷ,"Đường Trường Sơn, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",40 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,8 tỷ","Đường Nguyễn Tri Phương, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"23 m² (3,4x7,0)",N/A,N/A,N/A,N/A,Đông Nam,Sổ hồng
+9 tỷ,"Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","59,4 m²",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+28 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","120 m² (17,0x7,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (4,3x13,5)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"5,9 tỷ","3/2, Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"5,7 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",26 m²,N/A,N/A,4,N/A,Nam,Sổ hồng
+"10,9 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (4,0x15,0)",5 phòng,6 WC,5,N/A,N/A,Sổ đỏ
+9 tỷ,"Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",47 m²,4 phòng,3 WC,4,N/A,Tây Bắc,Sổ hồng
+"2,68 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","46,2 m² (4,0x11,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,96 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"15,9 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,19 m²,N/A,N/A,6,N/A,N/A,Sổ hồng
+"9,2 tỷ","702/45/41 , Đường Điện Biên Phủ, Phường 10, Quận 10, TP.HCM","Nhà hẻm, ngõ","42,3 m²",N/A,N/A,4,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","24 m² (3,0x8,0)",2 phòng,2 WC,3,N/A,N/A,Giấy tờ hợp lệ
+"3,56 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,6 tỷ","Đường Bạch Mã, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","63 m² (5,0x12,6)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Nguyễn Tiểu La, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,2,N/A,Nam,Sổ hồng
+"7,5 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","38 m² (4,0x10,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+55 tỷ,"Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"85 m² (8,0x11,0)",15 phòng,12 WC,N/A,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Hòa Hảo, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ","53 m² (4,0x13,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"16,95 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,75 m²,2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"23,9 tỷ","Đường Đồng Nai, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"122 m² (4,5x26,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"5,1 tỷ","312/3, Đường Ngô Gia Tự, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (5,0x6,0)",3 phòng,2 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+"5,9 tỷ","343/20, Đường Vĩnh Viễn, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (3,1x8,0)",4 phòng,4 WC,4,Đông,Đông,Sổ hồng
+18 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","98 m² (8,0x13,0)",10 phòng,N/A,4,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+25 tỷ,"436A, Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","145 m² (10,0x14,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,9 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,6 phòng,N/A,6,N/A,Bắc,Sổ hồng
+"22,9 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"82,5 m² (5,0x16,5)",N/A,N/A,N/A,N/A,Đông,Sổ hồng
+"11,45 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"21,2 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","72 m² (6,0x12,0)",9 phòng,9 WC,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Nhật Tảo, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (4,5x12,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Hoà Hưng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","55 m² (10,0x6,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"8,5 tỷ","Đường Hồ Bá Kiện, Phường 13, Quận 10, TP.HCM",Nhà mặt tiền,"30 m² (3,2x9,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"22,9 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","85 m² (5,0x16,5)",11 phòng,12 WC,5,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Nguyễn Tri Phương, Phường 8, Quận 10, TP.HCM",Nhà mặt tiền,"60 m² (3,7x16,0)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"11,5 tỷ","392/8/77, Đường Cao Thắng, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","70,4 m² (5,0x14,7)",N/A,N/A,2,N/A,N/A,Sổ hồng
+44 tỷ,"500, Đường Nguyễn Chí Thanh, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ","290 m² (12,0x24,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,07 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"3,6 tỷ","Đường Nguyễn Kim, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ","66 m² (6,0x11,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+19 tỷ,"50, Đường Trần Minh Quyền, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"201 m² (12,0x5,0)",5 phòng,6 WC,N/A,Tây Nam,Tây Nam,Sổ hồng
+"11,2 tỷ","58/1, Đường Lý Thường Kiệt, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+"4,35 tỷ","Đường Lê Hồng Phong, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",53 m²,5 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"1,62 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","65 m² (5,0x13,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"4,2 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",36 m²,3 phòng,2 WC,2,N/A,Đông Nam,Sổ hồng
+"9,5 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","43 m² (4,1x12,0)",4 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Lý Thái Tổ, Phường 10, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"13,7 tỷ","Đường Sư Vạn Hạnh, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,"43 m² (3,8x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"24,9 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","100 m² (5,8x18,0)",15 phòng,15 WC,N/A,N/A,N/A,Sổ hồng
+9 tỷ,"528/5/132, Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","43 m² (4,1x14,0)",N/A,N/A,5,Đông Nam,Đông Nam,Sổ hồng
+"7,7 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,4,N/A,Nam,Sổ hồng
+"40,5 tỷ","Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"154 m² (7,0x27,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+"6,8 tỷ","Đường Tô Hiến Thành, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",40 m²,N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+35 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","97 m² (6,0x17,0)",6 phòng,7 WC,7,N/A,N/A,Sổ hồng
+"2,65 tỷ","Đường 3 Tháng 2, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,35 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","39,6 m² (3,3x12,0)",3 phòng,2 WC,3,N/A,Tây Bắc,Sổ hồng
+"5,2 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",26 m²,N/A,N/A,3,N/A,Bắc,Sổ hồng
+"8,85 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (3,8x12,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+53 tỷ,"Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",Nhà mặt tiền,"192 m² (12,0x16,0)",N/A,N/A,N/A,N/A,Tây,Sổ hồng
+11 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"3,59 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,89 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",2 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",67 m²,N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+18 tỷ,"Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","116 m² (5,0x25,0)",7 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Lý Thái Tổ, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,3 WC,4,Nam,Nam,Sổ hồng
+20 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","100 m² (6,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+9 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"8,25 tỷ","Đường Tô Hiến Thành, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ",41 m²,6 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"6,99 tỷ","Đường Cách Mạng Tháng 8, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","73 m² (4,0x17,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"3,2 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","28 m² (4,0x7,0)",1 phòng,2 WC,N/A,Tây,Tây,Sổ hồng
+"6,8 tỷ","Đường Nguyễn Kim, Phường 7, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (3,4x9,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Trường Sơn, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,99 m²,N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"5,8 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,88 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Bạch Mã, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ",18 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+9 tỷ,"Đường Nhật Tảo, Phường 6, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,5 tỷ","Đường Trần Thiện Chánh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","24 m² (3,4x7,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"6,95 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ",33 m²,5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"6,95 tỷ","Đường Nguyễn Tri Phương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (3,3x9,5)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",N/A,N/A,4,N/A,N/A,Giấy tờ hợp lệ
+"5,69 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"3,4 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","240 m² (4,0x15,0)",8 phòng,8 WC,4,N/A,N/A,Sổ hồng
+"11,6 tỷ","Đường Thành Thái, Phường 12, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"6,8 tỷ","Đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (3,5x9,0)",3 phòng,3 WC,5,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9 tỷ,"Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",2 phòng,2 WC,N/A,N/A,Đông,Sổ hồng
+"7,5 tỷ","496/12, Đường Sư Vạn Hạnh, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ","160 m² (4,0x10,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ",81 m²,N/A,N/A,1,N/A,Tây Nam,Sổ hồng
+"5,7 tỷ","Đường Vĩnh Viễn, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+18 tỷ,"634, Đường 3 Tháng 2, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"85 m² (4,5x109,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"16,9 tỷ","Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"76 m² (4,7x16,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ",53 m²,5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"387, Đường Trần Nhân Tôn, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,"45 m² (3,0x15,0)",4 phòng,4 WC,4,N/A,N/A,Sổ đỏ
+36 tỷ,"Đường Cao Thắng, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,108 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,2 tỷ","Đường Lê Hồng Phong, Phường 2, Quận 10, TP.HCM",Nhà mặt tiền,"42 m² (4,0x10,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"5,3 tỷ","158/23K, Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","32 m² (3,1x10,0)",3 phòng,3 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"13,5 tỷ","Đường Cao Thắng, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ","94 m² (4,4x19,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Bà Hạt, Phường 9, Quận 10, TP.HCM","Nhà hẻm, ngõ",20 m²,2 phòng,3 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+"6,5 tỷ","Đường Sư Vạn Hạnh, Phường 2, Quận 10, TP.HCM","Nhà hẻm, ngõ","30 m² (4,0x9,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"6,4 tỷ","Đường Hoà Hưng, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (10,0x5,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+45 tỷ,"Đường Hồ Bá Kiện, Phường 15, Quận 10, TP.HCM",Nhà mặt tiền,"180 m² (9,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,5 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM",Nhà mặt tiền,"42 m² (4,0x10,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,49 m²,5 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"3,98 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","20 m² (4,0x5,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,25 tỷ","120/3, Đường Ngô Gia Tự, Phường 9, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+24 tỷ,"Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","100 m² (6,0x18,0)",8 phòng,8 WC,5,N/A,N/A,Sổ hồng
+"10,7 tỷ","Đường Bắc Hải, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",2 phòng,2 WC,4,N/A,N/A,Sổ hồng
+"7,1 tỷ","Đường Nhật Tảo, Phường 6, Quận 10, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"36,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ",97 m²,6 phòng,7 WC,4,N/A,Tây Bắc,Sổ hồng
+40 tỷ,"Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Nhà mặt tiền,"68 m² (4,0x18,0)",23 phòng,23 WC,9,N/A,N/A,Sổ hồng
+"5,69 tỷ","Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"8,6 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ","60,5 m² (5,5x11,0)",N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"7,5 tỷ","Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"18,5 tỷ","Đường Nguyễn Tri Phương, Phường 9, Quận 10, TP.HCM",Nhà mặt tiền,50 m²,2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"5,95 tỷ","Đường Hồ Thị Kỷ, Phường 1, Quận 10, TP.HCM","Nhà hẻm, ngõ",44 m²,N/A,N/A,2,N/A,Đông Nam,Sổ hồng
+"2,4 tỷ","Đường 3 Tháng 2, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",55 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Thành Thái, Phường 14, Quận 10, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"13,8 tỷ","156/7R, Đường Tô Hiến Thành, Phường 15, Quận 10, TP.HCM","Nhà hẻm, ngõ","110 m² (7,2x15,0)",5 phòng,5 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"7A, Đường Thành Thái, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","58 m² (4,8x14,5)",4 phòng,4 WC,4,N/A,Tây Bắc,Sổ hồng
+"4,4 tỷ","Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM","Nhà hẻm, ngõ","45 m² (4,5x10,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Điện Biên Phủ, Phường 11, Quận 10, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,9 tỷ","Đường Vĩnh Viễn, Phường 5, Quận 10, TP.HCM","Nhà hẻm, ngõ",35 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"17,9 tỷ","Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM","Nhà hẻm, ngõ","96 m² (4,0x24,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"3,6 tỷ","Đường 3 Tháng 2, Phường 14, Quận 10, TP.HCM","Nhà hẻm, ngõ","25 m² (5,0x4,9)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Bà Hạt, Phường 8, Quận 10, TP.HCM","Nhà hẻm, ngõ",30 m²,4 phòng,5 WC,N/A,N/A,N/A,Giấy tờ hợp lệ

@@ -1,0 +1,594 @@
+﻿Giá,Địa chỉ,Loại hình nhà ở,Diện tích đất,Số phòng ngủ,Số phòng vệ sinh,Tổng số tầng,Hướng ban công,Hướng cửa chính,Giấy tờ pháp lý
+"5,8 tỷ","1017/102X, Đường Hồng Bàng, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","66 m² (6,0x10,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"5,95 tỷ","Đường Lò Gốm, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","100 m² (4,6x18,6)",N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"10,5 tỷ","615C, Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (8,0x8,0)",6 phòng,6 WC,6,N/A,N/A,Giấy tờ hợp lệ
+"6,5 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"52,4 m² (4,6x11,4)",7 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"3,2 tỷ","47/2L10, Đường Tân Hóa, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ",28 m²,2 phòng,1 WC,1,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","35 m² (3,2x11,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,67 tỷ","Đường Võ Văn Kiệt, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,65 tỷ","Đường Cư Xá Ra Đa, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",21 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"5,5 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"6,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",1 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+"1,7 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ",18 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"1,7 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ",20 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"1,35 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",13 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+29 tỷ,"260, Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"232,3 m²",4 phòng,3 WC,N/A,N/A,Đông Nam,Sổ hồng
+"5,5 tỷ","Đường Minh Phụng, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+25 tỷ,"940, Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"52,1 m² (4,0x13,0)",N/A,N/A,2,Nam,Nam,Sổ hồng
+"3,35 tỷ","Đường Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,98 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","69 m² (4,5x15,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+960 triệu,"Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+960 triệu,"Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"1,22 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"10,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,0x18,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"95 m² (5,0x19,0)",4 phòng,3 WC,2,Nam,Nam,Sổ hồng
+"1,8 tỷ","Đường Bà Hom, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,40 m²,1 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"17,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"93 m² (3,5x28,0)",9 phòng,9 WC,5,N/A,Đông Nam,Sổ hồng
+"2,74 tỷ","Đường Nguyễn Văn Luông, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,5x13,5)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,5 WC,5,N/A,Bắc,Sổ hồng
+"4,78 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","38 m² (7,5x6,0)",5 phòng,2 WC,3,N/A,Đông,Sổ hồng
+"15,9 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","164 m² (8,0x20,0)",5 phòng,5 WC,3,Đông,Đông,Sổ hồng
+18 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"90 m² (4,5x20,0)",6 phòng,7 WC,N/A,Đông,Đông,Sổ hồng
+"2,18 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","18 m² (2,8x9,5)",2 phòng,1 WC,1,N/A,Bắc,Sổ hồng
+"17,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"93,1 m² (3,5x26,0)",6 phòng,5 WC,N/A,Nam,Nam,Sổ hồng
+"3,5 tỷ","1/, Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"2,5 tỷ","Đường Tháp Mười, Phường 2, Quận 6, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"30,5 tỷ","Đường Mai Xuân Thưởng, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"73,4 m² (8,0x10,2)",9 phòng,8 WC,N/A,N/A,N/A,Sổ hồng
+"15,3 tỷ","285, Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"75,8 m² (4,0x19,5)",N/A,N/A,5,Đông Nam,Đông Nam,Sổ hồng
+"3,1 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","32 m² (4,5x7,0)",3 phòng,2 WC,1,Tây,Tây,Sổ hồng
+"8,9 tỷ","Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+18 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"90 m² (4,5x20,0)",8 phòng,8 WC,N/A,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"112 m² (4,0x28,0)",4 phòng,2 WC,3,Nam,Nam,Sổ hồng
+2 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",2 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+"3,99 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,2 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+"12,5 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"6,98 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","74,5 m² (4,3x18,0)",4 phòng,4 WC,N/A,N/A,Đông,Sổ hồng
+"8,2 tỷ","Đường Hồng Bàng, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (3,4x15,0)",4 phòng,3 WC,N/A,N/A,Đông,Sổ hồng
+95 tỷ,"Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"675 m² (15,0x45,0)",2 phòng,1 WC,1,Nam,Nam,Sổ đỏ
+"6,5 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,3 WC,3,Tây Nam,Tây Nam,Sổ hồng
+"8,5 tỷ","233, Đường Văn Thân, Phường 7, Quận 6, TP.HCM",Nhà mặt tiền,"54,5 m² (9,7x6,0)",2 phòng,2 WC,1,N/A,Đông Nam,Sổ hồng
+42 tỷ,"243, Đường 26, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,5 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","58 m² (4,5x13,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"26,5 tỷ","4, Đường Phạm Đình Hổ, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"79,8 m² (4,2x19,0)",N/A,N/A,3,Tây Nam,Tây Nam,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x18,0)",4 phòng,5 WC,3,Nam,Nam,Sổ hồng
+"1,01 tỷ","Đường Nguyễn Văn Luông, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"4,99 tỷ","Đường Văn Thân, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","56 m² (3,3x16,0)",4 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"12,2 tỷ","Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (3,8x17,5)",1 phòng,1 WC,2,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường An Dương Vương, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","58 m² (3,6x16,0)",3 phòng,2 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+"17,5 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","310 m² (8,2x37,0)",8 phòng,6 WC,N/A,N/A,Tây Nam,Sổ hồng
+910 triệu,"Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,29 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","36 m² (4,8x8,5)",2 phòng,1 WC,N/A,Đông Bắc,Đông Bắc,Sổ hồng
+"8,9 tỷ","Đường 33, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,5 WC,4,N/A,Tây,Sổ hồng
+"8,1 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"8,6 tỷ","78A4, Đường Cao Văn Lầu, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"57 m² (3,0x11,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (5,0x18,0)",N/A,N/A,4,Tây Bắc,Tây Bắc,Sổ hồng
+"2,66 tỷ","Đường Cao Văn Lầu, Phường 2, Quận 6, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"7,1 tỷ","Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",2 phòng,2 WC,2,Nam,Nam,Sổ hồng
+25 tỷ,"92, Đường Bãi Sậy, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"81,4 m² (3,6x23,0)",N/A,N/A,4,Tây Bắc,Tây Bắc,Sổ hồng
+62 tỷ,"240 A-B-C-D, Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"182,5 m² (20,0x18,5)",N/A,N/A,1,Tây,Tây,Sổ hồng
+"8,9 tỷ","Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+980 triệu,"Đường Bình Thới, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","56 m² (5,0x11,2)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","52,7 m²",3 phòng,2 WC,2,N/A,Tây Nam,Sổ hồng
+11 tỷ,"Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","94 m² (3,5x27,0)",N/A,N/A,3,N/A,N/A,Sổ đỏ
+"2,45 tỷ","Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ",55 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"9,38 tỷ","Đường số 82, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (4,0x15,0)",2 phòng,2 WC,2,Nam,Nam,Sổ hồng
+"3,35 tỷ","Đường Hồng Bàng, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"12,7 tỷ","394, Đường Chợ Lớn, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,5x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+28 tỷ,"230, Đường Cao Văn Lầu, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"120,8 m² (4,3x28,1)",6 phòng,7 WC,5,N/A,N/A,Sổ hồng
+"2,4 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Song Hành, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",6 phòng,6 WC,4,Bắc,Bắc,Sổ hồng
+"10,5 tỷ","Đường 21, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"66 m² (4,0x17,0)",4 phòng,4 WC,3,Tây,Tây,Sổ hồng
+"12,5 tỷ","38E, Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"93,7 m² (5,0x20,0)",3 phòng,2 WC,2,N/A,Nam,Giấy tờ hợp lệ
+870 triệu,"Đường Bến Lò Gốm, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","61 m² (5,0x12,2)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Phan Văn Khỏe, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"67 m² (3,5x20,0)",4 phòng,5 WC,4,N/A,Đông,Sổ hồng
+"11,4 tỷ","Đường An Dương Vương, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",6 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"11,8 tỷ","168B, Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (5,0x18,0)",6 phòng,6 WC,4,Nam,Nam,Sổ hồng
+"1,8 tỷ","Đường Bà Hom, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,40 m²,1 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+12 tỷ,"Đường số 6, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,5 WC,N/A,N/A,Bắc,Sổ hồng
+"4,2 tỷ","S15/27, Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","45 m² (3,7x11,0)",2 phòng,2 WC,N/A,Bắc,Bắc,Sổ hồng
+"1,85 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","20,6 m² (2,9x7,1)",1 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+"31,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"160 m² (8,0x20,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Bà Hom, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",3 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"1,05 tỷ","Đường Bà Hom, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","68 m² (4,0x17,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+12 tỷ,"Đường số 6, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+25 tỷ,"62, Đường số 9, Phường 7, Quận 6, TP.HCM",Nhà mặt tiền,"182 m² (5,7x31,0)",4 phòng,4 WC,3,Tây,Tây,Sổ hồng
+"3,9 tỷ","116, Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","43 m² (4,4x10,0)",2 phòng,2 WC,2,N/A,Bắc,Sổ hồng
+"6,48 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường Phan Văn Khỏe, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"92 m² (4,2x22,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"2,65 tỷ","Đường Minh Phụng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","63,8 m² (4,4x14,5)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"10,5 tỷ","N21, Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"7,6 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","66 m² (4,3x15,5)",N/A,N/A,1,N/A,N/A,Sổ đỏ
+3 tỷ,"Đường Bình Tây, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ","58,5 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,85 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48,4 m² (3,7x14,0)",1 phòng,N/A,N/A,N/A,Bắc,Sổ hồng
+15 tỷ,"Đường số 5, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (5,6x15,3)",2 phòng,2 WC,N/A,Đông,Đông,Sổ hồng
+"4,25 tỷ","336, Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","38 m² (3,9x10,0)",3 phòng,2 WC,N/A,Nam,Nam,Sổ hồng
+"3,6 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","37 m² (4,6x8,0)",2 phòng,2 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+9 tỷ,"Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,N/A,N/A,N/A,N/A,Sổ đỏ
+3 tỷ,"Đường Tân Hóa, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","19 m² (3,5x5,5)",N/A,N/A,2,N/A,N/A,Sổ đỏ
+"17,5 tỷ","839, Đường HỒNG BÀNG, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",3 phòng,3 WC,3,Bắc,Bắc,Sổ hồng
+"28,8 tỷ","Đường Bình Phú, Phường 10, Quận 6, TP.HCM","Biệt thự, Villa","256 m² (16,0x16,0)",5 phòng,5 WC,2,Tây Bắc,Tây Bắc,Sổ hồng
+"1,45 tỷ","240//, Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","10,8 m² (2,5x4,3)",2 phòng,1 WC,3,N/A,N/A,Sổ hồng
+32 tỷ,"Đường Hậu Giang, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"140 m² (7,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường 34, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"94 m² (5,3x18,0)",4 phòng,3 WC,N/A,Nam,N/A,Sổ hồng
+8 tỷ,"Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"57,6 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,7 tỷ","Đường Võ Văn Kiệt, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (3,5x12,7)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"4,15 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,3 WC,N/A,Nam,Nam,Sổ hồng
+25 tỷ,"98, Đường Chu Văn An, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"90,8 m² (3,7x24,5)",N/A,N/A,2,Tây,Tây,Sổ hồng
+"2,85 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",16 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"7,55 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+22 tỷ,"7D, Đường Phạm Đình Hổ, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"64,6 m² (3,4x19,0)",5 phòng,4 WC,4,Đông,Đông,Sổ hồng
+"3,29 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"19,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,7 WC,N/A,Nam,Nam,Sổ hồng
+10 tỷ,"Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,68 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"7D, Đường Phạm Đình Hổ, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"64,6 m² (3,8x17,0)",N/A,N/A,4,Đông,Đông,Sổ hồng
+"4,1 tỷ","Đường Cao Văn Lầu, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x14,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Nguyễn Xuân Phụng, Phường 2, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"7,3 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,48 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,85 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM",Nhà mặt tiền,"111 m² (3,7x30,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,55 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,5x11,2)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,4 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",27 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"14,8 tỷ","Đường Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"100 m² (4,0x25,0)",4 phòng,4 WC,N/A,N/A,Tây Nam,Sổ hồng
+10 tỷ,"Đường Cư xá Phú Lâm A, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+13 tỷ,"Đường 32, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"93 m² (5,0x18,5)",4 phòng,3 WC,N/A,Nam,Nam,Sổ hồng
+"8,8 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","56 m² (5,0x11,5)",4 phòng,5 WC,N/A,N/A,Bắc,Sổ hồng
+"14,6 tỷ","Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (3,7x22,5)",5 phòng,5 WC,6,N/A,Bắc,Sổ hồng
+21 tỷ,"Đường 26, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"110 m² (4,4x25,0)",4 phòng,3 WC,N/A,Nam,Nam,Sổ hồng
+"7,3 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",7 phòng,7 WC,5,N/A,Tây Nam,Sổ hồng
+44 tỷ,"Đường 26, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"250 m² (10,0x22,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"13,2 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"75,8 m² (4,0x21,0)",6 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường số 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"124 m² (4,0x31,0)",7 phòng,8 WC,5,N/A,Tây,Sổ hồng
+18 tỷ,"Đường HỒNG BÀNG, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"71 m² (4,0x18,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+21 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"132 m² (3,0x33,0)",7 phòng,7 WC,N/A,N/A,Tây,Sổ hồng
+"11,9 tỷ","Đường 28, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Hồng Bàng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","38 m² (3,6x11,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"6,44 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"64,6 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"14,9 tỷ","Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (3,7x22,5)",6 phòng,7 WC,N/A,Bắc,Bắc,Sổ hồng
+"10,49 tỷ","Đường Vành Đai, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (4,0x15,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+54 tỷ,"Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"280 m² (15,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"9,49 tỷ","22, Đường 57, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",6 phòng,6 WC,N/A,N/A,N/A,Sổ đỏ
+10 tỷ,"Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,Đông,Đông,Sổ hồng
+6 tỷ,"Đường Nguyễn Thị Nhỏ, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"19,3 m² (2,9x14,0)",2 phòng,1 WC,1,N/A,Đông,Sổ hồng
+"14,4 tỷ","19, Đường Mai Xuân Thưởng, Phường 3, Quận 6, TP.HCM",Nhà mặt tiền,"74,6 m² (4,0x18,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,Bắc,N/A,Sổ hồng
+6 tỷ,"Đường Minh Phụng, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","85,9 m² (3,5x20,5)",3 phòng,3 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+"8,85 tỷ","Đường 42, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,9 tỷ","46, Đường 46, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",6 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường 40, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường An Dương Vương, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","59,2 m² (3,7x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,3 tỷ","151/32/2, Đường Mai Xuân Thưởng, Phường 4, Quận 6, TP.HCM","Nhà hẻm, ngõ","38 m² (3,3x11,2)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường 44, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,4 WC,4,N/A,N/A,Giấy tờ hợp lệ
+"5,28 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"42 m² (3,8x11,0)",3 phòng,2 WC,N/A,Bắc,Bắc,Sổ hồng
+"4,9 tỷ","69, Đường Văn Thân, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","58 m² (3,6x16,0)",4 phòng,3 WC,N/A,Tây Nam,Tây Nam,Sổ hồng
+"14,5 tỷ","Đường 33, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"56 m² (4,0x14,0)",4 phòng,4 WC,N/A,N/A,Đông Nam,Sổ hồng
+"1,8 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","16 m² (4,0x4,0)",2 phòng,1 WC,1,Đông,N/A,Sổ hồng
+"2,1 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ",72 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","165/20/9B, Đường Nguyễn Văn Luông, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","43 m² (3,6x12,0)",4 phòng,3 WC,3,Đông,Đông,Sổ hồng
+"4,2 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ",34 m²,2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"5,8 tỷ","131, Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,2 WC,3,Đông Nam,N/A,Sổ hồng
+3 tỷ,"Đường Tháp Mười, Phường 2, Quận 6, TP.HCM","Nhà hẻm, ngõ",64 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"3x, Đường số 54, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",5 phòng,5 WC,4,Tây Bắc,Tây Bắc,Sổ đỏ
+"7,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",63 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,25 tỷ","Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","100 m² (8,0x14,0)",5 phòng,6 WC,3,N/A,N/A,Sổ hồng
+"5,95 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"46 m² (4,0x12,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ đỏ
+"9,1 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",5 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"31,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"160 m² (8,0x20,0)",4 phòng,4 WC,3,Đông Nam,Đông Nam,Sổ hồng
+"2,08 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (5,0x9,6)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Tháp Mười, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"52 m² (4,0x13,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+"13,5 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",4 phòng,3 WC,5,Nam,Nam,Sổ hồng
+"6,5 tỷ","Đường Võ Văn Kiệt, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+41 tỷ,"Đường 57, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"216 m² (8,0x27,0)",6 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+"8,7 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"10,5 tỷ","Đường 21, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"7,75 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"64,5 m²",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+14 tỷ,"Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (5,7x15,3)",3 phòng,3 WC,3,N/A,Đông Bắc,Sổ hồng
+23 tỷ,"240/45 - 47, Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"255,1 m² (10,5x24,3)",N/A,N/A,1,Tây Nam,Tây Nam,Sổ hồng
+"6,5 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","53 m² (4,6x11,4)",7 phòng,7 WC,4,N/A,N/A,Sổ đỏ
+16 tỷ,"14, Đường Hoàng Lê Kha, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"106 m² (4,7x23,0)",4 phòng,5 WC,N/A,Tây Bắc,Tây Bắc,Sổ hồng
+150 triệu,"9, Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"7,8 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","68 m² (5,5x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"162 m² (9,0x18,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+12 tỷ,"Đường số 6, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x17,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường 36, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"93 m² (5,5x18,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"7,3 tỷ","Đường 40, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường 33, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x17,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Vành Đai, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+14 tỷ,"Đường Hậu Giang, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","63 m² (4,5x14,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,48 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,3 WC,4,N/A,N/A,Sổ đỏ
+"16,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+17 tỷ,"Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"106 m² (4,0x26,0)",2 phòng,1 WC,N/A,N/A,N/A,Hợp đồng mua bán
+"5,35 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","46 m² (3,0x3,9)",3 phòng,2 WC,N/A,N/A,Bắc,Sổ hồng
+10 tỷ,"Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM",Nhà mặt tiền,"45 m² (4,1x10,5)",3 phòng,2 WC,2,N/A,N/A,Đang chờ sổ
+14 tỷ,"Đường Hậu Giang, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",5 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"8,8 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","56 m² (4,9x11,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,35 tỷ","Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,8 tỷ","Đường Hậu Giang, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"52,3 m²",2 phòng,3 WC,1,Đông Bắc,Đông Bắc,Sổ hồng
+"2,35 tỷ","Đường Bà Lài, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ",44 m²,2 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"8,6 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (3,7x20,0)",3 phòng,2 WC,N/A,N/A,Nam,Sổ hồng
+16 tỷ,"Đường Phan Văn Khỏe, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"79 m² (3,7x21,0)",4 phòng,4 WC,N/A,N/A,Nam,Sổ hồng
+"14,8 tỷ","Đường Hoàng Lê Kha, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"108 m² (4,7x23,0)",5 phòng,4 WC,4,N/A,N/A,Sổ đỏ
+"8,6 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"65 m² (3,7x20,0)",3 phòng,2 WC,N/A,Nam,Nam,Sổ hồng
+"6,49 tỷ","Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+19 tỷ,"Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,7 WC,N/A,Nam,Nam,Sổ hồng
+"8,3 tỷ","Đường Minh Phụng, Phường 9, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"8,8 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"55 m² (5,0x12,0)",4 phòng,3 WC,N/A,Bắc,Bắc,Sổ hồng
+"13,99 tỷ","Đường 26, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,84 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","72 m² (4,0x19,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+35 tỷ,"229-229/1, Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (9,2x9,1)",2 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"19,49 tỷ","Đường Văn Thân, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"149 m² (5,7x28,0)",2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+12 tỷ,"59/14, Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"16,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"8,6 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (3,7x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,99 tỷ","Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","103 m² (6,0x17,0)",5 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"1,43 tỷ","Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","46 m² (3,0x15,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường Mai Xuân Thưởng, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"16,35 tỷ","Đường Bến Phú Lâm, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"150 m² (6,0x20,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+960 triệu,"Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+12 tỷ,"59/14, Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","156 m² (4,7x26,0)",1 phòng,1 WC,2,Tây Bắc,Tây Bắc,Sổ hồng
+"13,5 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"128 m² (8,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","242, Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","13 m² (3,4x4,0)",2 phòng,3 WC,N/A,Tây,Tây,Sổ hồng
+"11,5 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"98 m² (4,2x23,0)",4 phòng,3 WC,N/A,Đông,Đông,Sổ hồng
+"2,63 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","20 m² (3,3x6,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,59 tỷ","Đường Cao Văn Lầu, Phường 2, Quận 6, TP.HCM","Nhà hẻm, ngõ","43 m² (4,0x10,7)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","45 m² (4,5x10,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+14 tỷ,"351/1C, Đường An Dương Vương, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"100 m² (5,0x20,0)",3 phòng,2 WC,3,Đông,Đông,Sổ hồng
+20 tỷ,"Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",5 phòng,6 WC,N/A,N/A,Nam,Sổ hồng
+960 triệu,"Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"3,7 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",26 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+17 tỷ,"Đường số 25A, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"114 m² (5,0x23,0)",5 phòng,6 WC,5,N/A,Tây,Sổ hồng
+"7,55 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"77,9 m² (4,1x19,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",6 phòng,6 WC,N/A,N/A,Đông,Sổ hồng
+"6,5 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","52,4 m² (4,6x11,4)",7 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,45 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"6,65 tỷ","Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","64 m² (4,5x14,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"5,65 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",5 phòng,3 WC,4,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Nguyễn Văn Luông, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"63,2 m² (4,2x16,0)",4 phòng,3 WC,N/A,Đông,Đông,Sổ hồng
+"4,7 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,4x12,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"18,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"122 m² (3,9x30,0)",2 phòng,2 WC,N/A,Nam,Nam,Sổ hồng
+"5,7 tỷ","Đường Văn Thân, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,5 tỷ","Đường Trần Văn Kiểu, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+930 triệu,"Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","61 m² (4,0x15,3)",3 phòng,2 WC,1,N/A,Đông Nam,Sổ hồng
+11 tỷ,"Đường An Dương Vương, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",5 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+"7,65 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","72 m² (4,1x19,0)",4 phòng,4 WC,4,Đông,Đông,Sổ hồng
+"1,05 tỷ","Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",3 phòng,3 WC,1,N/A,Đông Nam,Sổ hồng
+"10,5 tỷ","Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"2,45 tỷ","Đường Mai Xuân Thưởng, Phường 4, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,65 tỷ","Đường Hậu Giang, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","44,8 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,8 tỷ","242, Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","34 m² (3,4x12,0)",2 phòng,2 WC,2,Tây,Tây,Sổ hồng
+24 tỷ,"Đường Tháp Mười, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"53 m² (4,0x13,1)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"13,2 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"75,8 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,3 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"10,1 tỷ","79G, Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"58 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"5,68 tỷ","27/23/49, Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (3,6x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,5x16,0)",4 phòng,4 WC,4,N/A,Nam,Sổ hồng
+27 tỷ,"Đường Vành Đai, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"184 m² (8,0x23,0)",1 phòng,1 WC,2,N/A,Đông,Sổ hồng
+"2,4 tỷ","96/3A Bình Tiên P.3 Q.6 TPHCM, Đường Bình Tiên, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","16 m² (4,0x4,0)",3 phòng,3 WC,4,Bắc,Bắc,Sổ hồng
+"6,5 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","55 m² (3,6x13,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"9,7 tỷ","Đường Nguyễn Văn Luông, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","95 m² (9,5x10,0)",5 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"1,31 tỷ","Đường Hậu Giang, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"61 m² (5,0x12,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",16 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"2,2 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","16 m² (2,0x8,0)",2 phòng,2 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+12 tỷ,"Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"110 m² (4,9x10,5)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"10,65 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"133 m² (5,0x18,0)",3 phòng,1 WC,1,N/A,N/A,Sổ hồng
+"2,25 tỷ","Đường Bà Hom, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",44 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"12,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (5,0x16,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"75,5 m² (4,0x19,0)",2 phòng,2 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"4,5 tỷ","Đường Hồng Bàng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","42 m² (4,2x10,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM",Nhà mặt tiền,"72,5 m² (3,8x19,0)",5 phòng,5 WC,4,N/A,Tây Bắc,Sổ hồng
+16 tỷ,"Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"144 m² (8,0x18,0)",2 phòng,1 WC,1,Bắc,Bắc,Sổ đỏ
+"17,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"93 m² (3,5x28,0)",4 phòng,3 WC,N/A,N/A,Nam,Sổ hồng
+"5,65 tỷ","Đường Minh Phụng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ",40 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,7 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","54 m² (7,0x4,3)",1 phòng,1 WC,2,N/A,N/A,Sổ hồng
+"31,5 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"195 m² (7,0x25,0)",2 phòng,2 WC,2,Nam,Nam,Sổ hồng
+"2,4 tỷ","Đường Lý Chiêu Hoàng, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ",27 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"12,7 tỷ","Đường Bà Ký, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,0x18,5)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"3,24 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+940 triệu,"Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Phan Văn Khỏe, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,0x18,5)",5 phòng,5 WC,N/A,N/A,Đông Bắc,Sổ hồng
+3 tỷ,"Đường Nguyễn Đình Chi, Phường 9, Quận 6, TP.HCM","Nhà hẻm, ngõ",64 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Phạm Văn Chí, Phường 4, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,95 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","46 m² (3,5x13,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+950 triệu,"Đường Lê Quang Sung, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x14,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"25,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"160 m² (9,0x18,0)",1 phòng,1 WC,1,N/A,N/A,Sổ hồng
+"13,6 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"57 m² (4,4x12,4)",5 phòng,2 WC,3,N/A,Tây Bắc,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,5 WC,N/A,N/A,Nam,Sổ hồng
+10 tỷ,"Đường 57, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,5 WC,N/A,N/A,Đông,Sổ hồng
+13 tỷ,"Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"90 m² (4,0x22,0)",5 phòng,4 WC,4,N/A,Đông,Sổ đỏ
+17 tỷ,"Đường Hoàng Lê Kha, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"88 m² (5,0x21,0)",6 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"12,3 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,4 WC,4,N/A,Tây,Sổ hồng
+"10,7 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,5 WC,4,Đông,Đông,Sổ hồng
+4 tỷ,"Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","47,4 m² (3,8x12,6)",1 phòng,1 WC,2,N/A,Đông Nam,Sổ hồng
+17 tỷ,"Đường 25, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"113 m² (5,0x23,0)",6 phòng,7 WC,N/A,Tây,Tây,Sổ hồng
+15 tỷ,"Đường Hậu Giang, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,Tây Bắc,Tây Bắc,Sổ hồng
+40 tỷ,"Đường Bình Tiên, Phường 4, Quận 6, TP.HCM",Nhà mặt tiền,"230 m² (6,5x26,0)",3 phòng,3 WC,3,N/A,Tây,Sổ hồng
+"12,6 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,5x16,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"5,95 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"47 m² (3,5x14,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+38 tỷ,"223, Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"148 m² (6,2x23,9)",N/A,N/A,4,Tây Bắc,Tây Bắc,Sổ hồng
+"13,5 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (8,0x10,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"4,3 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","36 m² (3,5x11,0)",2 phòng,2 WC,N/A,N/A,Tây,Sổ hồng
+12 tỷ,"M34, Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (3,8x20,0)",4 phòng,5 WC,3,Đông Nam,Đông Nam,Sổ hồng
+28 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","350 m² (13,0x34,0)",7 phòng,9 WC,2,N/A,N/A,Sổ hồng
+940 triệu,"Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+890 triệu,"Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","62 m² (4,0x16,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+41 tỷ,"18, Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"238,2 m² (7,3x25,3)",N/A,N/A,2,Nam,Nam,Sổ hồng
+20 tỷ,"12, Đường Văn Thân, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"158,3 m² (4,1x33,0)",N/A,N/A,3,Tây Bắc,Tây Bắc,Sổ hồng
+950 triệu,"Đường Văn Thân, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"6,7 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","51 m² (3,5x16,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"12,2 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"99 m² (6,6x15,0)",1 phòng,1 WC,2,N/A,N/A,Sổ hồng
+"9,8 tỷ","Đường Cư Xá Phú Lâm D, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường số 68, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,40 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Võ Văn Kiệt, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"18,5 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"120 m² (4,0x30,0)",3 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"16,5 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"86 m² (4,3x25,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường số 3, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"17,9 tỷ","Đường Mai Xuân Thưởng, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ","122 m² (8,0x14,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"125 m² (5,0x25,0)",7 phòng,7 WC,7,N/A,Tây,Sổ đỏ
+"23,5 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"160 m² (11,3x19,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"6,2 tỷ","Đường Bến Lò Gốm, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","87 m² (4,6x21,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+147 triệu,"3, Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (4,0x22,0)",6 phòng,6 WC,4,Bắc,Bắc,Sổ hồng
+"25,5 tỷ","Đường 17, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"144 m² (8,0x18,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Mai Xuân Thưởng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","35,7 m² (4,2x8,5)",2 phòng,3 WC,2,Đông,Đông,Sổ hồng
+"5,5 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","31 m² (5,0x6,2)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,72 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường Phạm Văn Chí, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"96 m² (6,5x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,93 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","46 m² (3,5x13,5)",5 phòng,3 WC,4,N/A,Tây Bắc,Sổ hồng
+"6,2 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ",39 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"4,55 tỷ","Đường Mai Xuân Thưởng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","36 m² (4,2x8,5)",2 phòng,3 WC,3,N/A,Đông Nam,Sổ hồng
+"2,15 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"2,4 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,5x16,0)",5 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,1x19,0)",2 phòng,1 WC,N/A,Bắc,Bắc,Sổ hồng
+"12,5 tỷ","Đường 36, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,0x18,5)",4 phòng,3 WC,N/A,Bắc,Bắc,Sổ hồng
+"12,3 tỷ","Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",4 phòng,3 WC,N/A,Nam,Nam,Sổ hồng
+"5,48 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ",45 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Lò Gốm, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (4,3x23,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"3,3 tỷ","Đường Mai Xuân Thưởng, Phường 1, Quận 6, TP.HCM","Nhà hẻm, ngõ","37 m² (3,3x11,2)",1 phòng,1 WC,N/A,N/A,Đông Nam,Sổ hồng
+"23,5 tỷ","Đường Phạm Văn Chí, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"98 m² (6,5x15,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"9,8 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"5,75 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"40 m² (4,0x10,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"17,9 tỷ","321, Đường Gia Phú, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"71,8 m² (3,8x18,9)",N/A,N/A,3,Đông Nam,Đông Nam,Sổ hồng
+"10,25 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"1,7 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","10 m² (2,0x5,0)",2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"11,9 tỷ","Đường Tân Hòa Đông, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","144 m² (7,5x19,0)",4 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"10,3 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,1)",3 phòng,3 WC,3,Bắc,Bắc,Sổ hồng
+"5,6 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","63 m² (3,5x18,0)",4 phòng,2 WC,N/A,N/A,Nam,Sổ hồng
+"6,8 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","84 m² (4,0x12,0)",4 phòng,4 WC,3,Đông,Đông,Sổ hồng
+"3,3 tỷ","269, Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,2 WC,N/A,Đông,Đông,Sổ hồng
+"5,3 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","41 m² (3,6x11,5)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"9,6 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,4 WC,N/A,N/A,Tây,Sổ hồng
+"12,3 tỷ","Đường số 13, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"55,2 m² (4,0x17,0)",4 phòng,4 WC,N/A,N/A,Đông,Sổ hồng
+"8,5 tỷ","Đường Nguyễn Đình Chi, Phường 9, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"4,25 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","45 m² (4,5x10,0)",3 phòng,3 WC,N/A,Tây Nam,Tây Nam,Sổ hồng
+"9,8 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,3 WC,N/A,Tây,Tây,Sổ hồng
+"6,4 tỷ","Đường Văn Thân, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","57 m² (4,0x14,0)",5 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"95 m² (5,0x19,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",2 phòng,N/A,N/A,N/A,N/A,Sổ đỏ
+12 tỷ,"Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,0x18,5)",4 phòng,4 WC,N/A,N/A,Đông Bắc,Sổ hồng
+"12,8 tỷ","Đường 17, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,4 WC,N/A,N/A,Tây,Sổ hồng
+"25,5 tỷ","Đường Minh Phụng, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"115 m² (5,5x21,0)",2 phòng,1 WC,1,Tây,Tây,Sổ đỏ
+"8,4 tỷ","Đường Tân Hòa Đông, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","145 m² (6,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+15 tỷ,"Đường Hậu Giang, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"81,5 m² (3,6x32,5)",N/A,N/A,N/A,N/A,Bắc,Sổ hồng
+15 tỷ,"Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,6 WC,5,Đông,Đông,Sổ hồng
+"4,95 tỷ","Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","67 m² (4,5x13,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","49 m² (3,9x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,6 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ",45 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,4 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ",65 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"4,46 tỷ","336/87/5 Nguyễn văn luông , Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x10,0)",3 phòng,2 WC,2,Đông Nam,Đông Nam,Sổ hồng
+"9,9 tỷ","Đường Hậu Giang, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","68 m² (4,0x15,0)",2 phòng,1 WC,N/A,N/A,N/A,Sổ đỏ
+"11,99 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (4,0x15,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"27,5 tỷ","Đường Vành Đai, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"126 m² (8,0x16,0)",8 phòng,10 WC,5,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Kênh Tân Hóa, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"89,1 m² (6,6x13,5)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Hậu Giang, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","37 m² (4,1x9,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"47 m² (3,5x14,0)",3 phòng,4 WC,4,N/A,N/A,Sổ hồng
+6 tỷ,"Đường Bửu Đình, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ",28 m²,3 phòng,N/A,3,N/A,Nam,Đang chờ sổ
+"7,5 tỷ","Đường Lý Chiêu Hoàng, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+56 tỷ,"Đường Bình Phú, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"228 m² (12,0x19,0)",N/A,N/A,N/A,N/A,Bắc,Sổ hồng
+"4,1 tỷ","Đường Kênh Tân Hóa, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"55 m² (9,0x2,5)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"17,9 tỷ","324, Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"83,7 m² (5,3x16,0)",11 phòng,12 WC,5,Nam,Nam,Sổ hồng
+"12,4 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"5,4 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","45 m² (3,0x15,2)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"10,99 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"13,6 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",1 phòng,1 WC,1,Bắc,Bắc,Sổ hồng
+"5,35 tỷ","Đường Kênh Tân Hóa, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"55,2 m² (6,6x13,5)",N/A,N/A,N/A,N/A,Tây Bắc,Sổ hồng
+"2,98 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (2,0x10,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","104 m² (3,2x15,2)",4 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường An Dương Vương, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","52 m² (4,5x12,0)",4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+31 tỷ,"Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"98 m² (7,5x21,5)",N/A,N/A,N/A,N/A,Đông Nam,Sổ hồng
+3 tỷ,"Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","34 m² (3,4x10,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"6,95 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","75 m² (4,3x17,0)",4 phòng,4 WC,1,N/A,N/A,Sổ hồng
+"5,28 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","40,4 m² (3,8x11,5)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Cư Xá Phú Lâm B, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",6 phòng,5 WC,5,N/A,Tây Nam,Sổ hồng
+"6,1 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (3,2x15,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường số 3, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",5 phòng,6 WC,3,N/A,N/A,Sổ hồng
+6 tỷ,"Đường Tân Hóa, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"47 m² (4,0x12,0)",N/A,N/A,3,N/A,N/A,Giấy tờ hợp lệ
+"17,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường Phạm Văn Chí, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"96 m² (6,5x15,0)",8 phòng,9 WC,5,N/A,N/A,Sổ hồng
+15 tỷ,"Đường Hậu Giang, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Đặng Nguyên Cẩn, Phường 14, Quận 6, TP.HCM",Nhà mặt tiền,"55 m² (6,0x14,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","340 m² (13,0x34,0)",7 phòng,8 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường 33, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"75 m² (5,0x15,0)",5 phòng,6 WC,3,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường Lò Gốm, Phường 9, Quận 6, TP.HCM","Nhà hẻm, ngõ","120 m² (6,5x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,6 tỷ","860/10, Đường An Dương Vương, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","71,9 m² (3,9x17,0)",4 phòng,3 WC,3,N/A,Đông Bắc,Sổ hồng
+"14,8 tỷ","Đường An Dương Vương, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"100 m² (5,0x25,0)",8 phòng,9 WC,5,N/A,N/A,Sổ hồng
+"10,5 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (3,9x17,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+15 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"88 m² (4,0x22,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Bình Tiên, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"120 m² (4,0x30,0)",4 phòng,2 WC,1,N/A,N/A,Sổ hồng
+42 tỷ,"10-12, Đường số 59, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"214,4 m² (8,0x27,0)",8 phòng,8 WC,3,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"106 m² (4,4x24,0)",6 phòng,7 WC,5,N/A,N/A,Sổ hồng
+"17,3 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"136 m² (12,0x15,0)",7 phòng,7 WC,3,N/A,N/A,Sổ hồng
+"15,3 tỷ","Đường Bình Tây, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"88 m² (4,0x22,0)",6 phòng,5 WC,4,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,3 WC,N/A,Đông,Đông,Sổ hồng
+"10,4 tỷ","462, Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"26,3 m² (3,5x7,5)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"12,95 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"89,7 m² (4,1x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,15 tỷ","Đường Bình Phú 2, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"12,1 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",6 phòng,3 WC,5,N/A,N/A,Sổ hồng
+36 tỷ,"Đường An Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"304 m² (5,5x31,0)",N/A,N/A,5,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","56,2 m² (4,3x12,0)",N/A,N/A,N/A,N/A,Tây,Sổ hồng
+"10,4 tỷ","462, Đường Phạm Văn Chí, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"26,3 m² (3,5x7,5)",8 phòng,5 WC,5,Đông Nam,Đông Nam,Sổ hồng
+"13,9 tỷ","921, Đường Hồng Bàng, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"54 m² (4,2x15,0)",N/A,N/A,3,Bắc,Bắc,Sổ hồng
+"12,85 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","51,8 m² (4,3x18,0)",N/A,N/A,N/A,N/A,Tây Bắc,Sổ hồng
+"13,5 tỷ","Đường Hồng Bàng, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"47 m² (4,2x11,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,5 tỷ","Hẻm 240, Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","20 m² (4,0x5,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"4,4 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","53,2 m² (3,8x17,0)",3 phòng,2 WC,3,N/A,Nam,Sổ hồng
+"3,85 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","36 m² (5,0x7,3)",2 phòng,1 WC,2,N/A,Tây Nam,Sổ hồng
+"5,5 tỷ","Đường Bến Phú Lâm, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"48,9 m² (2,5x21,3)",2 phòng,1 WC,1,N/A,Tây Nam,Sổ hồng
+"7,5 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,0x20,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"98 m² (4,0x24,0)",6 phòng,7 WC,5,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","72 m² (4,0x17,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+55 tỷ,"Đường 24, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"600 m² (24,0x24,0)",7 phòng,8 WC,1,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Bến Lò Gốm, Phường 8, Quận 6, TP.HCM",Nhà mặt tiền,"35 m² (3,5x10,0)",5 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (3,9x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+300 tỷ,"Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM","Biệt thự, Villa","1.200 m² (20,0x50,0)",N/A,N/A,N/A,N/A,Đông Nam,Sổ hồng
+15 tỷ,"Đường Hậu Giang, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"53 m² (4,3x17,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"40 m² (4,0x10,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+20 tỷ,"1012, Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"121,5 m² (4,0x30,5)",4 phòng,3 WC,2,Nam,Nam,Sổ hồng
+"10,95 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",5 phòng,6 WC,4,N/A,N/A,Sổ hồng
+"8,8 tỷ","Đường Cư Xá Phú Lâm D, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"2,36 tỷ","Đường Hậu Giang, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","45 m² (5,0x9,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường 22, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,5 WC,4,Nam,Nam,Sổ hồng
+22 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"124 m² (4,0x31,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","140 m² (8,0x18,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"6,95 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","75 m² (4,3x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường 32, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"92,5 m² (5,0x18,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường 17, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+11 tỷ,"Đường 33, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"75 m² (5,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+11 tỷ,"Đường số 54, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+52 tỷ,"Đường Hậu Giang, Phường 1, Quận 6, TP.HCM",Nhà mặt tiền,"1.350 m² (20,0x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+12 tỷ,"Đường 14, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường 25, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"115 m² (5,0x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+20 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"110 m² (4,0x27,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường 36, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,0x18,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+17 tỷ,"Đường Phan Văn Khỏe, Phường 5, Quận 6, TP.HCM",Nhà mặt tiền,"88 m² (4,0x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường 22, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"99 m² (4,3x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường số 10, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,5x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"13,5 tỷ","Đường số 13, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường số 6, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,4 WC,5,N/A,Bắc,Sổ hồng
+"11,99 tỷ","1P, Đường Song Hành, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"3,9 tỷ","Đường 45, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"30 m² (3,0x10,0)",1 phòng,1 WC,1,Đông Nam,Đông Nam,Sổ hồng
+"2,35 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"87 m² (4,0x22,0)",4 phòng,4 WC,4,N/A,Đông,Sổ hồng
+"3,9 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ",32 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+12 tỷ,"Đường 14, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"125 m² (5,0x25,0)",6 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"12,9 tỷ","Đường 23, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+16 tỷ,"Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"70 m² (4,0x17,5)",N/A,N/A,4,Đông Nam,Đông Nam,Sổ hồng
+15 tỷ,"Đường số 8, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"74 m² (4,0x18,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,9 tỷ","Đường số 3, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,3 tỷ","Đường số 13, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+13 tỷ,"Đường 24, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+14 tỷ,"Đường 24, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"96 m² (4,0x24,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",4 phòng,4 WC,5,N/A,Đông,Sổ hồng
+"12,9 tỷ","Đường Trần Văn Kiểu, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",5 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+"2,7 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"7,5 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","75 m² (5,0x18,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"14,3 tỷ","Đường Song Hành, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"78 m² (4,0x19,0)",6 phòng,8 WC,3,N/A,Đông,Sổ hồng
+"2,45 tỷ","Đường Tháp Mười, Phường 2, Quận 6, TP.HCM","Biệt thự, Villa",56 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"9,6 tỷ","Đường 23, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,64 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,5 tỷ","157//, Đường Mai Xuân Thưởng, Phường 4, Quận 6, TP.HCM","Nhà hẻm, ngõ","32 m² (5,3x6,3)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Kênh Tân Hóa, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ",65 m²,4 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+"7,2 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","65 m² (5,0x13,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","65 m² (5,4x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,45 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","32 m² (3,5x12,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+6 tỷ,"Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","46 m² (3,6x13,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",4 phòng,5 WC,3,Đông,Đông,Sổ hồng
+"5,7 tỷ","Đường Minh Phụng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (3,5x11,5)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"13,9 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,5 WC,N/A,Đông,Đông,Sổ hồng
+"11,9 tỷ","Đường số 3, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"79 m² (4,0x20,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"31,5 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"195 m² (7,5x25,0)",4 phòng,4 WC,N/A,N/A,Nam,Sổ hồng
+15 tỷ,"Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"88 m² (4,0x22,0)",4 phòng,3 WC,N/A,Tây,Tây,Sổ hồng
+12 tỷ,"Đường Bình Phú 1, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"98 m² (4,2x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"95 m² (4,0x24,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+11 tỷ,"Đường số 54, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,5 WC,N/A,N/A,Tây Bắc,Sổ hồng
+"12,3 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"76 m² (4,0x19,0)",4 phòng,5 WC,N/A,N/A,Nam,Sổ hồng
+"12,5 tỷ","Đường 34, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"95 m² (5,0x18,5)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+6 tỷ,"27/23, Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","46,2 m² (3,6x13,0)",4 phòng,3 WC,3,Đông Nam,Đông Nam,Sổ hồng
+"12,7 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"73 m² (4,5x16,0)",4 phòng,3 WC,N/A,Nam,Nam,Sổ hồng
+"2,65 tỷ","231/89/28, Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","30 m² (5,0x6,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường số 10, Phường 13, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"5,95 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","68 m² (5,0x14,0)",3 phòng,2 WC,1,Đông,Đông,Sổ hồng
+"6,5 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (3,9x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"10,2 tỷ","Đường 23, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",5 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"28,8 tỷ","26-28, Đường số 50, Phường 10, Quận 6, TP.HCM","Biệt thự, Villa","256 m² (16,0x16,0)",4 phòng,N/A,N/A,Tây Nam,N/A,Sổ đỏ
+17 tỷ,"Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"39,3 m² (3,1x22,4)",N/A,N/A,5,Nam,Nam,Sổ hồng
+"13,5 tỷ","Đường Chợ Lớn, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",1 phòng,1 WC,N/A,N/A,Bắc,Sổ hồng
+"29,8 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,150 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,1 tỷ","25A, Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",6 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"5,75 tỷ","Đường Minh Phụng, Phường 6, Quận 6, TP.HCM","Nhà hẻm, ngõ","40 m² (3,7x12,0)",2 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ",39 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ",72 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,2 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"9,6 tỷ","Đường Văn Thân, Phường 7, Quận 6, TP.HCM",Nhà mặt tiền,"55 m² (4,0x14,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"11,9 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"1,48 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","9,5 m² (2,2x4,2)",3 phòng,2 WC,4,N/A,Nam,Sổ hồng
+"1,48 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM","Nhà hẻm, ngõ","9,5 m² (2,3x4,4)",3 phòng,2 WC,4,N/A,Nam,Sổ hồng
+"3,5 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"14,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",6 phòng,6 WC,5,N/A,Đông,Sổ hồng
+"5,15 tỷ","Đường Bình Tiên, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,2 tỷ","Đường Bà Hom, Phường 13, Quận 6, TP.HCM","Nhà hẻm, ngõ","51 m² (3,8x13,5)",2 phòng,2 WC,1,Tây,Tây,Sổ hồng
+"15,9 tỷ","Đường Bình Phú 1, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"106 m² (4,4x24,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+64 tỷ,"Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"185 m² (20,0x21,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"2,45 tỷ","Đường Đặng Nguyên Cẩn, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"18,2 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM",Nhà mặt tiền,"122 m² (4,0x31,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"4,4 tỷ","Đường Phạm Văn Chí, Phường 7, Quận 6, TP.HCM","Nhà hẻm, ngõ","72 m² (3,3x10,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"22,9 tỷ","Đường Trần Văn Kiểu, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"140 m² (7,0x20,0)",5 phòng,5 WC,3,Tây,Tây,Sổ hồng
+"7,5 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","68 m² (4,0x18,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+28 tỷ,"Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM","Biệt thự, Villa","264 m² (12,0x29,0)",8 phòng,7 WC,5,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",4 phòng,5 WC,N/A,N/A,Tây,Sổ hồng
+"3,05 tỷ","Đường Phan Văn Khỏe, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"13,2 tỷ","Đường Hồng Bàng, Phường 9, Quận 6, TP.HCM",Nhà mặt tiền,"61,5 m² (4,1x15,0)",N/A,N/A,4,N/A,N/A,Giấy tờ hợp lệ
+"14,5 tỷ","Đường Bình Phú, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",6 phòng,6 WC,5,N/A,N/A,Sổ hồng
+11 tỷ,"Đường 11, Phường 13, Quận 6, TP.HCM",Nhà mặt tiền,"79 m² (4,0x19,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","78 m² (4,5x18,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Kinh Dương Vương, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"2,3 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ",22 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+29 tỷ,"Đường Mai Xuân Thưởng, Phường 2, Quận 6, TP.HCM",Nhà mặt tiền,"100 m² (6,3x18,0)",21 phòng,21 WC,N/A,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x11,0)",5 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"4,6 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","36 m² (3,0x9,0)",3 phòng,2 WC,N/A,Đông,Đông,Sổ hồng
+4 tỷ,"Đường Tân Hòa Đông, Phường 14, Quận 6, TP.HCM","Nhà hẻm, ngõ","79 m² (4,2x17,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"8,99 tỷ","Đường Phạm Văn Chí, Phường 3, Quận 6, TP.HCM","Nhà hẻm, ngõ","103 m² (6,0x17,0)",5 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"8,4 tỷ","Đường Cư xá Phú Lâm A, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","88 m² (4,8x18,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+55 tỷ,"Đường số 8, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"425 m² (17,0x25,0)",7 phòng,8 WC,4,N/A,N/A,Sổ hồng
+"8,4 tỷ","Đường Mai Xuân Thưởng, Phường 4, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"21,3 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"250 m² (10,0x25,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,8 tỷ","Đường số 4, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"95 m² (4,0x24,0)",4 phòng,4 WC,N/A,N/A,Nam,Sổ hồng
+46 tỷ,"Đường 23, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"162 m² (9,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,39 tỷ","Đường Hậu Giang, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","80 m² (4,5x19,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"3,2 tỷ","Đường Bửu Đình, Phường 5, Quận 6, TP.HCM","Nhà hẻm, ngõ","22 m² (3,1x10,0)",2 phòng,2 WC,N/A,Đông,Bắc,Sổ hồng
+"8,2 tỷ","Đường Nguyễn Văn Luông, Phường 11, Quận 6, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,7 tỷ","Đường Nguyễn Văn Luông, Phường 12, Quận 6, TP.HCM","Nhà hẻm, ngõ","24 m² (7,0x4,0)",2 phòng,2 WC,N/A,Bắc,Bắc,Sổ hồng
+"11,49 tỷ","49, Đường số 19, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"66 m² (4,0x16,6)",5 phòng,N/A,4,N/A,N/A,Sổ hồng
+"3,35 tỷ","Đường Lò Gốm, Phường 8, Quận 6, TP.HCM","Nhà hẻm, ngõ","27 m² (3,3x8,0)",2 phòng,2 WC,N/A,Bắc,Bắc,Sổ hồng
+"9,7 tỷ","Đường Bình Phú 2, Phường 10, Quận 6, TP.HCM",Nhà mặt tiền,"60 m² (4,0x15,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Hậu Giang, Phường 11, Quận 6, TP.HCM",Nhà mặt tiền,"49,1 m² (3,3x15,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Lê Quang Sung, Phường 9, Quận 6, TP.HCM","Nhà hẻm, ngõ","74,2 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
