@@ -1,0 +1,708 @@
+﻿Giá,Địa chỉ,Loại hình nhà ở,Diện tích đất,Số phòng ngủ,Số phòng vệ sinh,Tổng số tầng,Hướng ban công,Hướng cửa chính,Giấy tờ pháp lý
+5 tỷ,"46/41/75, Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","30,4 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","36 m² (5,0x7,0)",2 phòng,3 WC,3,N/A,Tây Bắc,Sổ hồng
+29 tỷ,"5, Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM",Nhà mặt tiền,"44,1 m² (4,2x10,5)",5 phòng,6 WC,6,N/A,N/A,Sổ hồng
+"20,8 tỷ","242/121, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",N/A,N/A,3,N/A,Đông Nam,Sổ hồng
+"3,88 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,4)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,68 tỷ","Đường Lê Văn Sỹ, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"49,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,170 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,25 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"63 m² (4,5x14,0)",5 phòng,6 WC,3,N/A,N/A,Sổ hồng
+"5,4 tỷ","157/10, Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",36 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Nguyễn Đình Chiểu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",68 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,3 tỷ","429, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","51 m² (6,3x10,0)",9 phòng,8 WC,4,N/A,N/A,Sổ hồng
+50 triệu,"Đường Điện Biên Phủ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",100 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+49 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"135 m² (6,0x24,0)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+97 tỷ,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,"200 m² (13,6x18,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","135 m² (5,5x25,0)",6 phòng,5 WC,1,N/A,N/A,Sổ hồng
+"4,79 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","94,7 m² (5,0x18,9)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","49,1 m² (4,0x12,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,18 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+19 tỷ,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","80 m² (5,0x16,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"2,55 tỷ","Đường Nguyễn Thượng Hiền, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,2 tỷ","176/..., Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","18 m² (3,0x5,0)",3 phòng,2 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+27 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","77 m² (8,2x11,0)",2 phòng,2 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+"14,9 tỷ","29, Đường Đỗ Thị Lời, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,"49 m² (4,0x15,0)",2 phòng,2 WC,3,Đông Nam,Đông Nam,Sổ hồng
+"1,17 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","125 m² (5,0x12,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"2,25 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","54,6 m² (4,2x13,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"2,48 tỷ","Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",3 phòng,4 WC,2,N/A,N/A,Sổ hồng
+39 tỷ,"Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,107 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,15 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","46,7 m² (4,0x11,7)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"3,9 tỷ","513/47, Đường Điện Biên Phủ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",23 m²,2 phòng,3 WC,3,N/A,N/A,Sổ hồng
+79 tỷ,"Đường Trần Quốc Thảo, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"252 m² (12,0x21,0)",8 phòng,6 WC,4,N/A,Đông Nam,Sổ hồng
+350 tỷ,"Đường Điện Biên Phủ, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"713 m² (25,0x35,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"5,9 tỷ","18/2x, Đường Rạch Bùng Binh, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",2 phòng,2 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"8,5 tỷ","219/47, Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","89,9 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,55 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","61,2 m² (4,2x14,6)",4 phòng,5 WC,2,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Pasteur, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (7,0x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"60 m² (5,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+25 tỷ,"Đường Rạch Bùng Binh, Phường 10, Quận 3, TP.HCM",Nhà mặt tiền,"55 m² (5,0x12,0)",6 phòng,5 WC,N/A,Đông Bắc,Đông Bắc,Sổ hồng
+"12,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",67 m²,24 phòng,24 WC,5,N/A,N/A,Sổ hồng
+"2,28 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (5,0x9,6)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"1,95 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","41 m² (4,5x10,3)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+3 tỷ,"Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",27 m²,2 phòng,2 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+16 tỷ,"589, Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",3 phòng,3 WC,2,Tây Bắc,Tây Bắc,Sổ hồng
+"2,75 tỷ","Đường Kỳ Đồng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"4,1 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"180 m² (4,0x15,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Trần Quốc Thảo, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"84 m² (4,0x21,0)",5 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+60 tỷ,"Đường Tú Xương, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"143 m² (9,0x16,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"3,4 tỷ","90/3/16, Đường Bà Huyện Thanh Quan, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","16,9 m² (3,3x5,0)",2 phòng,1 WC,4,Đông Nam,N/A,Sổ hồng
+"7,8 tỷ","361/31, Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","33 m² (3,0x11,0)",2 phòng,3 WC,2,N/A,N/A,Giấy tờ hợp lệ
+"12,8 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","112 m² (6,0x20,0)",5 phòng,N/A,3,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","39 m² (4,0x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"4,6 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",80 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+36 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"138 m² (6,3x23,0)",10 phòng,N/A,5,N/A,N/A,Sổ hồng
+11 tỷ,"212, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60,8 m² (6,7x10,2)",5 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"3,7 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",30 m²,3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","248 m² (4,0x16,0)",N/A,N/A,4,N/A,Tây Bắc,Sổ hồng
+"25,5 tỷ","Đường Phạm Ngọc Thạch, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"85 m² (4,2x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,75 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,65 tỷ","Đường Hồ Xuân Hương, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","120 m² (4,0x10,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+6 tỷ,"199/27, Đường Cách Mạng Tháng 8, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","31 m² (5,7x8,5)",4 phòng,4 WC,4,Đông Bắc,Đông Bắc,Sổ hồng
+"3,8 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","17 m² (3,5x5,0)",3 phòng,2 WC,N/A,N/A,Đông Nam,Sổ hồng
+"5,3 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"28,8 m² (3,2x9,0)",3 phòng,3 WC,3,N/A,N/A,Sổ đỏ
+"13,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,2x14,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+31 tỷ,"Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"106 m² (5,0x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",56 m²,2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,35 tỷ","Đường Lý Thái Tổ, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+23 tỷ,"Đường số 4, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"270 m² (5,9x12,0)",5 phòng,6 WC,N/A,N/A,Đông Nam,Sổ đỏ
+"2,55 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","45 m² (4,0x11,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+165 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"250 m² (15,0x27,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,8 tỷ","429/47, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","51 m² (4,0x11,0)",8 phòng,8 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+"17,5 tỷ","Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (6,0x10,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",44 m²,7 phòng,N/A,5,N/A,Tây Bắc,Sổ hồng
+5 tỷ,"Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (3,5x18,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,18 tỷ","Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,5 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Nguyễn Sơn Hà, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"1,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",63 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",46 m²,N/A,N/A,4,N/A,Nam,Sổ hồng
+"8,2 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,6 phòng,N/A,3,N/A,Đông Bắc,Sổ hồng
+"3,19 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","110 m² (5,0x21,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",30 m²,3 phòng,3 WC,1,N/A,N/A,Sổ đỏ
+23 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"72 m² (6,0x12,5)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"3,02 tỷ","Đường Trường Sa, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",48 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+925 triệu,"Đường Kỳ Đồng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,0x14,5)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"3,8 tỷ","Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"10,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,4,N/A,Tây Nam,Sổ hồng
+29 tỷ,"Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"64 m² (10,0x8,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (3,6x16,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+230 tỷ,"40-42, Đường Cao Thắng, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"193 m² (8,0x23,5)",N/A,N/A,9,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Trần Quốc Thảo, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,2x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,4 tỷ","475/32/2, Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","11 m² (2,5x4,5)",2 phòng,2 WC,3,N/A,Đông,Sổ đỏ
+3 tỷ,"Đường Cách Mạng Tháng 8, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (5,0x11,6)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",23 m²,3 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+"8,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",36 m²,5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"11,8 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","65 m² (6,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,35 tỷ","Đường Lý Thái Tổ, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,6 tỷ","453/155/14, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","24 m² (3,2x7,5)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"72,5 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"250 m² (8,5x30,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",23 m²,N/A,N/A,4,N/A,Tây Bắc,Sổ hồng
+"11,5 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",40 m²,N/A,N/A,4,N/A,Đông Nam,Sổ hồng
+"3,08 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"39,5 tỷ","451, Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"68,3 m² (4,1x16,8)",N/A,N/A,6,Đông Bắc,Đông Bắc,Sổ hồng
+"3,2 tỷ","Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","29 m² (3,2x9,0)",2 phòng,1 WC,2,N/A,N/A,Sổ hồng
+"22,9 tỷ","Đường Cư xá Đô Thành, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"79 m² (6,0x13,0)",5 phòng,6 WC,5,N/A,N/A,Giấy tờ hợp lệ
+"17,5 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (3,6x16,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+145 tỷ,"409, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"218 m² (13,0x27,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"17,5 tỷ","Đường Đỗ Thị Lời, Phường 11, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,55 tỷ","Đường Nguyễn Sơn Hà, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","140 m² (7,0x20,0)",6 phòng,6 WC,1,N/A,N/A,Sổ hồng
+330 tỷ,"112, Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,412 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,1 tỷ","Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",70 m²,5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"7,2 tỷ","95/19, Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (3,6x16,0)",3 phòng,3 WC,2,N/A,Đông Nam,Sổ hồng
+"8,8 tỷ","Đường Lý Chính Thắng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,2x11,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+21 tỷ,"80/22B, Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","58,3 m² (3,3x17,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+65 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"180 m² (9,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,7 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"12,2 tỷ","Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (3,6x16,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,25 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,1 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"4,1 tỷ","Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,5 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","56,5 m² (4,0x14,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","103 m² (6,2x15,0)",6 phòng,6 WC,4,Tây Nam,Tây Nam,Sổ hồng
+19 tỷ,"Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",80 m²,N/A,N/A,4,N/A,Đông Nam,Sổ hồng
+"7,35 tỷ","Đường Trương Định, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","51,1 m²",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"13,8 tỷ","Đường Cách Mạng Tháng 8, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","95 m² (4,5x19,0)",6 phòng,7 WC,4,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","43 m² (4,1x10,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"5,1 tỷ","Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",69 m²,5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"9,9 tỷ","Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (5,8x8,5)",7 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"13,6 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","57 m² (4,2x14,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"6,6 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",30 m²,3 phòng,3 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+"7,5 tỷ","Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","33 m² (4,0x9,0)",5 phòng,3 WC,4,N/A,Đông Nam,Sổ hồng
+12 tỷ,"Đường Trường Sa, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,0x13,0)",4 phòng,5 WC,N/A,N/A,Tây,Sổ đỏ
+5 tỷ,"Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+33 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"114 m² (6,0x21,0)",12 phòng,10 WC,7,N/A,Đông,Sổ hồng
+25 tỷ,"453, Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"38,6 m² (3,1x12,7)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","60,2 m² (4,3x14,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"4,4 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"48 m² (4,8x10,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,34 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (6,0x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,35 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (4,5x13,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x11,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","42 m² (4,2x11,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"5,2 tỷ","Đường Bà Huyện Thanh Quan, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Trần Quang Diệu, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"6,8 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x14,0)",2 phòng,1 WC,2,N/A,N/A,Sổ hồng
+17 tỷ,"118/15, Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,2x17,0)",5 phòng,6 WC,6,Đông Nam,Đông Nam,Sổ hồng
+52 tỷ,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,"187 m² (8,0x24,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,85 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"57 m² (4,2x12,8)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","47 m² (4,0x12,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+15 tỷ,"Đường Điện Biên Phủ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","105 m² (6,0x15,0)",7 phòng,7 WC,4,N/A,N/A,Sổ hồng
+"4,2 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","66,9 m² (4,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+96 tỷ,"Đường Nguyễn Đình Chiểu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"127 m² (8,0x18,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM",Nhà mặt tiền,"37 m² (3,3x11,0)",7 phòng,8 WC,5,N/A,N/A,Sổ hồng
+88 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"147 m² (6,2x26,0)",3 phòng,3 WC,3,N/A,Đông Nam,Sổ hồng
+"5,1 tỷ","Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",69 m²,4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"26,8 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"76 m² (4,5x19,0)",N/A,N/A,3,N/A,N/A,Giấy tờ hợp lệ
+30 tỷ,"Đường Nguyễn Thông, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa",91 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,88 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","33,7 m² (3,2x10,0)",4 phòng,4 WC,4,N/A,Tây Bắc,Sổ hồng
+"2,9 tỷ","Đường Cư xá Đô Thành, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+230 tỷ,"Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"585,7 m² (17,0x35,0)",N/A,N/A,12,N/A,N/A,Sổ hồng
+21 tỷ,"Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,2x21,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,88 tỷ","Đường Trần Quốc Toản, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","80,9 m² (3,6x19,5)",2 phòng,1 WC,N/A,N/A,Tây Bắc,Sổ hồng
+"2,25 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"61 m² (5,0x12,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,5 WC,2,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Bà Huyện Thanh Quan, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","36,9 m² (4,1x9,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+"2,13 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","42 m² (3,9x10,7)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"2,45 tỷ","Đường Nguyễn Thị Diệu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (5,0x8,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"4,99 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","18,4 m²",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Trần Quốc Thảo, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,2x20,0)",8 phòng,8 WC,4,N/A,Tây Nam,Sổ hồng
+"6,5 tỷ","Đường Hoàng Sa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (6,0x7,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"20,8 tỷ","Đường Trần Quốc Thảo, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","78 m² (4,5x18,0)",9 phòng,9 WC,6,N/A,N/A,Sổ hồng
+"5,4 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+86 tỷ,"Đường Lê Quý Đôn, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"373 m² (20,0x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+82 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"180 m² (12,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,4x9,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"5,9 tỷ","Đường Bà Huyện Thanh Quan, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (7,5x9,0)",8 phòng,8 WC,N/A,N/A,N/A,Sổ hồng
+69 tỷ,"Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"159 m² (8,0x20,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+115 tỷ,"376, Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"115 m² (8,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,2 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (4,5x15,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+40 tỷ,"Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"115 m² (9,0x14,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,55 tỷ","Đường Trần Quốc Thảo, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","45 m² (4,5x10,0)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"3,98 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","22 m² (3,5x8,0)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"8,9 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (5,2x10,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+12 tỷ,"Đường Trường Sa, Phường 12, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"18,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",72 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+23 tỷ,"306/*, Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","72 m² (4,2x18,0)",5 phòng,6 WC,N/A,N/A,N/A,Sổ hồng
+29 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"75,3 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,49 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","61,5 m² (4,0x15,3)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"9,85 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","64,5 m² (4,0x10,0)",16 phòng,16 WC,5,N/A,N/A,Sổ hồng
+"11,3 tỷ","453/77G11 , Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","66,1 m² (4,2x16,0)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","58,8 m² (4,2x14,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (4,5x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"20,8 tỷ","242/121, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","72 m² (4,0x18,0)",N/A,N/A,5,Đông Nam,Đông Nam,Sổ hồng
+"2,75 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"4,35 tỷ","Đường Đoàn Công Bửu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,8 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","46,5 m² (4,2x12,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,59 tỷ","Đường Hẽm 141 bàn cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,5 WC,2,N/A,N/A,Sổ hồng
+40 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"131 m² (4,0x24,0)",9 phòng,11 WC,N/A,N/A,Tây Bắc,Sổ hồng
+"2,69 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","96 m² (4,0x12,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"13,6 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",46 m²,5 phòng,4 WC,4,N/A,Đông Bắc,Sổ hồng
+"2,9 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","53,8 m² (4,2x12,8)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+31 tỷ,"Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","100 m² (5,2x22,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",48 m²,5 phòng,5 WC,3,N/A,N/A,Sổ đỏ
+"2,85 tỷ","Đường Trần Quốc Thảo, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"56 m² (4,0x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,79 tỷ","Đường Điện Biên Phủ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,0x15,5)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Hồ Xuân Hương, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",55 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,75 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Trường Sa, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","66 m² (4,0x16,5)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"3,45 tỷ","Đường Lê Văn Sỹ, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"2,55 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",42 m²,4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"2,5 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,05 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x14,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+72 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"140 m² (10,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,59 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+18 tỷ,"37, Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,05 tỷ","Đường Đỗ Thị Lời, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",50 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"10,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,2 phòng,3 WC,4,N/A,Tây Nam,Sổ hồng
+"1,31 tỷ","Đường Điện Biên Phủ, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",70 m²,N/A,N/A,6,N/A,Tây Nam,Sổ hồng
+51 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"100 m² (5,5x24,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"9,4 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","41 m² (3,5x11,0)",7 phòng,7 WC,5,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Cao Thắng, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"79 m² (4,0x20,0)",7 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,58 tỷ","Đường Ngô Thời Nhiệm, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","77 m² (4,5x17,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,79 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",51 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,9 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","28,8 m² (3,6x8,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,29 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,40 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,59 tỷ","Đường Lý Chính Thắng, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"3,88 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","61,4 m² (4,0x15,4)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+106 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"188,5 m² (4,7x33,5)",6 phòng,6 WC,8,N/A,Đông Nam,Sổ hồng
+22 tỷ,"Đường Trường Sa, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","107 m² (5,3x21,0)",3 phòng,3 WC,3,Tây Bắc,Tây Bắc,Sổ hồng
+58 tỷ,"Đường Bà Huyện Thanh Quan, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"120 m² (10,0x12,0)",6 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,2x20,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",45 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"1,2 tỷ","Đường Cao Thắng, Phường 5, Quận 3, TP. HCM, Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Trần Quốc Thảo, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"90 m² (4,5x20,0)",6 phòng,N/A,4,N/A,N/A,Sổ hồng
+"3,95 tỷ","Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",36 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Võ Thị Sáu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"95 m² (6,8x14,0)",2 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,9 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","49,1 m² (4,0x12,2)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+50 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"3,3 tỷ","Đường Nguyễn Thông, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","65,7 m² (4,0x16,3)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"5,4 tỷ","117, Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",34 m²,3 phòng,2 WC,3,N/A,Tây Bắc,Sổ hồng
+"8,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","45 m² (5,0x9,0)",3 phòng,2 WC,4,Tây Nam,Tây Nam,Sổ hồng
+"3,55 tỷ","Đường Lý Chính Thắng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",64 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+890 triệu,"Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","61 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Điện Biên Phủ, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"68 m² (4,0x17,0)",4 phòng,5 WC,4,N/A,N/A,Sổ đỏ
+"12,5 tỷ","Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (4,3x15,0)",4 phòng,5 WC,4,Đông Bắc,Đông Bắc,Sổ hồng
+"4,2 tỷ","27/40, Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","24 m² (3,0x8,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"2,45 tỷ","Đường Trương Quyền, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (5,0x8,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"1,45 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","26,3 m² (3,1x8,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ đỏ
+"3,15 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ",47 m²,4 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+"2,5 tỷ","Đường Nguyễn Hiền, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",63 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,35 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",53 m²,3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"3,8 tỷ","Đường Đoàn Công Bửu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x14,0)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"2,99 tỷ","Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,"22 m² (2,3x10,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+35 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,297 m²,N/A,N/A,7,N/A,N/A,Sổ hồng
+"3,85 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+8 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",N/A,N/A,N/A,N/A,Đông Nam,Sổ hồng
+35 tỷ,"Đường Cao Thắng, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"115 m² (6,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,28 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (5,0x9,6)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,29 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","47,5 m² (4,0x11,8)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"2,79 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x13,8)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Lý Chính Thắng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","67,5 m² (4,5x15,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","65 m² (4,5x14,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"3,45 tỷ","Đường Nguyễn Đình Chiểu, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,04 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","39 m² (3,5x11,1)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+21 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"75 m² (6,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,39 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","42 m² (4,0x10,5)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Cách Mạng Tháng 8, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (4,5x14,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"14,75 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",450 m²,15 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+52 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"170 m² (9,0x23,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Lê Văn Sỹ, Phường 3, Quận 3, TP.HCM","Biệt thự, Villa","160 m² (9,0x21,0)",N/A,N/A,N/A,N/A,Đông Nam,Sổ hồng
+40 tỷ,"Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"600 m² (8,2x13,0)",7 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+130 tỷ,"2/48, Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Biệt thự, Villa","518 m² (14,0x37,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Trần Quang Diệu, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,7x13,0)",2 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"5,3 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (3,0x14,0)",2 phòng,2 WC,2,N/A,Tây Nam,Sổ hồng
+14 tỷ,"Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","65 m² (4,0x16,0)",3 phòng,4 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+"6,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",6 phòng,6 WC,4,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Huỳnh Tịnh Của, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,4 WC,2,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","156 m² (10,0x16,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"9,9 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x13,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường Nguyễn Thông, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"58 m² (4,5x14,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+12 tỷ,"451/16, Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","36,1 m² (2,8x13,0)",1 phòng,1 WC,1,Đông,Đông,Sổ đỏ
+50 tỷ,"Đường Trần Văn Đang, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",322 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,18 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","64,7 m²",6 phòng,7 WC,N/A,N/A,N/A,Sổ hồng
+"2,4 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,0x13,5)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","47 m² (3,8x12,3)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"1,98 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","27,7 m² (3,1x9,1)",3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+"4,8 tỷ","Đường Trương Định, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",40 m²,3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"7,9 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,8x11,8)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+210 tỷ,"40-42, Đường Cao Thắng, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"196 m² (8,0x24,0)",6 phòng,14 WC,N/A,N/A,N/A,Sổ hồng
+"5,1 tỷ","Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",70 m²,5 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"3,05 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,3x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"1,69 tỷ","Đường Nguyễn Hiền, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","36 m² (3,0x12,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"11,9 tỷ","174/99, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","41,1 m² (3,2x14,0)",4 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,4 phòng,N/A,5,N/A,Đông Nam,Sổ hồng
+"13,5 tỷ","453, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","67 m² (4,2x15,0)",6 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"14,5 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","102 m² (6,2x15,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"9,2 tỷ","238/12E, Đường Nguyễn Thị Minh Khai, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","39,6 m²",N/A,N/A,2,N/A,N/A,Sổ hồng
+"7,6 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","52,3 m²",2 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","49,1 m² (4,0x12,3)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"3,55 tỷ","Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","64,6 m² (4,0x16,2)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+99 tỷ,"Đường Tú Xương, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"400 m² (10,0x40,0)",1 phòng,1 WC,N/A,N/A,N/A,Sổ hồng
+60 tỷ,"Đường Rạch Bùng Binh, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"180 m² (14,0x15,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"2,99 tỷ","Đường Nguyễn Đình Chiểu, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","56,3 m² (4,5x12,5)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+52 tỷ,"73, Đường Phạm Ngọc Thạch, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"79,2 m² (3,6x22,0)",8 phòng,9 WC,5,Đông Bắc,Đông Bắc,Sổ hồng
+"15,5 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (3,2x21,0)",10 phòng,11 WC,N/A,N/A,Tây,Sổ đỏ
+29 tỷ,"293, Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"49 m² (4,7x10,2)",N/A,N/A,4,Tây Bắc,Tây Bắc,Sổ hồng
+"7,29 tỷ","95, Đường Cao Thắng, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (3,6x16,0)",3 phòng,3 WC,2,Tây,Tây,Sổ hồng
+"27,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,75 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","45,6 m² (3,8x12,0)",N/A,N/A,4,N/A,N/A,Giấy tờ hợp lệ
+5 tỷ,"443/, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+69 tỷ,"Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","141 m² (10,0x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,55 tỷ","Đường Võ Thị Sáu, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","36 m² (3,2x12,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,09 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,4 tỷ","Đường Nguyễn Phúc Nguyên, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"30 m² (5,0x6,0)",4 phòng,5 WC,5,N/A,N/A,Sổ đỏ
+"2,89 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","53,8 m² (3,7x14,3)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"1,95 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","39 m² (3,4x11,4)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"11,7 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (4,4x10,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"4,8 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,73 m²,4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"2,25 tỷ","Đường Nguyễn Phúc Nguyên, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"4,85 tỷ","Đường Pasteur, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x14,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,3 tỷ","Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","53,5 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",62 m²,4 phòng,4 WC,3,N/A,Đông Bắc,Sổ hồng
+"5,45 tỷ","212/89/25, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","28 m² (3,0x10,0)",3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"2,27 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","31,4 m² (3,3x9,3)",2 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"3,04 tỷ","Đường Trần Quốc Thảo, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","49 m² (3,9x12,5)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+199 tỷ,"Đường Tú Xương, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"232 m² (12,0x20,0)",N/A,N/A,3,Tây Nam,Tây Bắc,Sổ hồng
+"41,5 tỷ","386/, Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Biệt thự, Villa","155 m² (10,0x20,0)",N/A,N/A,4,N/A,Đông Nam,Sổ hồng
+41 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Biệt thự, Villa","160 m² (8,0x20,0)",9 phòng,9 WC,5,N/A,N/A,Giấy tờ hợp lệ
+"5,7 tỷ","Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,20 m²,3 phòng,4 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+"5,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",29 m²,N/A,N/A,2,N/A,Đông Bắc,Sổ hồng
+300 tỷ,"Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"412 m² (14,0x30,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"10,99 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",63 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+36 tỷ,"230/, Đường Pasteur, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","115 m² (9,0x13,0)",5 phòng,3 WC,3,N/A,Tây Nam,Sổ hồng
+"7,2 tỷ","Đường số 4, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",56 m²,2 phòng,2 WC,2,Đông,Đông,Sổ hồng
+"2,79 tỷ","Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"1,13 tỷ","Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",61 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+29 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"75,3 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+26 tỷ,"Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"78 m² (4,6x20,0)",2 phòng,3 WC,1,N/A,N/A,Sổ đỏ
+350 tỷ,"Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"640 m² (16,0x40,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,1 tỷ","Đường Nguyễn Thông, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"52,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"200 m² (8,0x24,0)",N/A,N/A,4,N/A,Đông Bắc,Sổ hồng
+25 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"72 m² (6,0x12,0)",5 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"9,8 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"5,8 tỷ","159/90/41, Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","45 m² (5,0x9,0)",6 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"18,6 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",76 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+"28,2 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,75 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+"10,25 tỷ","Đường Trường Sa, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","66,7 m² (4,0x19,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"1,9 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Nguyễn Văn Mai, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,107 m²,N/A,N/A,7,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",53 m²,N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+208 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"320 m² (15,0x21,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+59 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"299 m² (13,0x23,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"2,39 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"100 m² (4,0x25,0)",7 phòng,7 WC,3,N/A,N/A,Sổ đỏ
+"2,98 tỷ","Đường Nguyễn Phúc Nguyên, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","150 m² (4,0x11,0)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+18 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","86,9 m² (4,0x22,0)",2 phòng,2 WC,1,N/A,Đông Bắc,Sổ hồng
+33 tỷ,"187, Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"67,8 m² (5,2x15,3)",N/A,N/A,3,N/A,N/A,Giấy tờ hợp lệ
+"3,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",68 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","53,8 m² (4,0x13,3)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",67 m²,3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"3,85 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","64,7 m²",6 phòng,7 WC,N/A,N/A,N/A,Sổ đỏ
+"1,85 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,2 phòng,1 WC,2,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"3,39 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","64,7 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,85 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,2x13,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ đỏ
+"3,05 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","49 m² (3,7x13,2)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"1,88 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","53 m² (4,0x13,2)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,88 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"5,5 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","24 m² (6,0x4,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,15 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","49 m² (3,8x12,8)",3 phòng,3 WC,3,N/A,N/A,Sổ đỏ
+"10,5 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",49 m²,N/A,N/A,4,N/A,Nam,Sổ hồng
+"3,69 tỷ","Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,8x4,0)",3 phòng,2 WC,3,N/A,N/A,Sổ đỏ
+"10,89 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","85 m² (5,5x15,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"1,39 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (4,5x14,0)",3 phòng,2 WC,1,N/A,Đông Nam,Sổ hồng
+"49,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Biệt thự, Villa",170 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+70 tỷ,"23, Đường Trương Định, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"100,4 m² (3,9x25,8)",N/A,N/A,5,Đông Bắc,Đông Bắc,Sổ hồng
+"1,15 tỷ","Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",3 phòng,2 WC,1,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",53 m²,4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"1,45 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,5x13,7)",3 phòng,3 WC,1,N/A,Đông Nam,Sổ hồng
+"19,5 tỷ","Đường Trương Định, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"72 m² (6,0x14,0)",6 phòng,6 WC,5,N/A,N/A,Sổ hồng
+13 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,5,N/A,Tây,Sổ hồng
+"2,89 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+19 tỷ,"611, Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",8 phòng,N/A,7,N/A,N/A,Sổ hồng
+"4,15 tỷ","Đường Lê Ngô Cát, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Điện Biên Phủ, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"71,5 m² (6,5x17,0)",3 phòng,N/A,2,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Đỗ Thị Lời, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,"103 m² (5,9x19,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,45 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường số 4 , cư xá đô Thành F4, Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"5,5 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (3,8x11,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"3,03 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","95/19, Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"2,3 tỷ","Đường số 3, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","69,7 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,35 tỷ","Đường số 4, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","22 m² (4,7x7,1)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"22,5 tỷ","Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"48 m² (4,0x12,0)",9 phòng,5 WC,6,Tây Bắc,Tây Bắc,Sổ hồng
+"19,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (5,0x16,0)",5 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"5,8 tỷ","18, Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","3,3 m² (3,3x10,0)",2 phòng,2 WC,2,N/A,Đông Nam,Sổ hồng
+"9,45 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"50 m² (4,0x14,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","90 m² (6,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+39 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,155 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+399 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 2, Quận 3, TP.HCM",Nhà mặt tiền,700 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,09 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","38 m² (4,0x9,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"36,8 tỷ","1068, Đường Trường Sa, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"85 m² (9,0x12,0)",4 phòng,5 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"4,35 tỷ","Đường Đoàn Công Bửu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,5)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+10 tỷ,"Đường Trường Sa, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,160 m²,N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"3,9 tỷ","462/42/12, Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","32 m² (3,4x9,5)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"6,4 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",21 m²,4 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"10,3 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"13,6 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"31 m² (3,1x10,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,6 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","35 m² (3,1x12,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"9,5 tỷ","Đường Nguyễn Thông, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","29 m² (3,2x9,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"11,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",42 m²,4 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"3,29 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"12,5 tỷ","Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"21 m² (4,2x9,0)",3 phòng,3 WC,N/A,N/A,Tây Nam,Sổ hồng
+12 tỷ,"Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (3,8x17,0)",5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,05 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"70 m² (5,1x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"10,9 tỷ","Đường Võ Văn Tần, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",57 m²,4 phòng,4 WC,4,N/A,N/A,Sổ đỏ
+"10,9 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",38 m²,N/A,N/A,5,N/A,N/A,Sổ hồng
+125 tỷ,"230, Đường Pasteur, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","569 m² (17,0x27,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",9 phòng,9 WC,N/A,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Nguyễn Phúc Nguyên, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","45 m² (4,0x11,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,56 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"11,9 tỷ","174/99, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","41,1 m² (3,2x14,0)",4 phòng,3 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"39,8 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Biệt thự, Villa","200 m² (10,0x20,0)",6 phòng,7 WC,5,N/A,N/A,Sổ hồng
+"4,55 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","49 m² (4,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,2 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+38 tỷ,"Đường Đỗ Thị Lời, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,103 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,25 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,35 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","53,8 m² (4,0x13,4)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"1,1 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,3 WC,1,N/A,N/A,Sổ hồng
+100 tỷ,"2/48, Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","447 m² (14,0x37,0)",N/A,N/A,2,Đông Bắc,Đông Bắc,Sổ hồng
+"11,9 tỷ","174, Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","41,1 m² (3,2x14,0)",4 phòng,3 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"1,12 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+880 triệu,"Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM",Nhà mặt tiền,"53 m² (4,0x13,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"1,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",63 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"12,8 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",42 m²,5 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+"7,9 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",33 m²,N/A,N/A,4,N/A,Đông Nam,Sổ hồng
+19 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Biệt thự, Villa","32,9 m² (6,0x12,0)",7 phòng,6 WC,4,N/A,Tây Bắc,Sổ hồng
+"3,12 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","57 m² (4,0x14,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"19,8 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (6,0x12,0)",7 phòng,6 WC,5,N/A,N/A,Sổ hồng
+"2,5 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",54 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,65 tỷ","Đường Huỳnh Tịnh Của, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"55 m² (5,0x11,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+930 triệu,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x13,0)",4 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"2,7 tỷ","Đường Cách Mạng Tháng 8, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+22 tỷ,"Đường Trường Sa, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","87 m² (5,3x21,0)",5 phòng,4 WC,3,N/A,N/A,Sổ đỏ
+"11,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","35,1 m² (4,4x8,5)",5 phòng,5 WC,6,N/A,Đông Bắc,Sổ hồng
+"6,8 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (3,2x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,83 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,0x15,5)",N/A,N/A,2,N/A,N/A,Sổ hồng
+195 tỷ,"Đường Võ Thị Sáu, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","668 m² (23,0x39,0)",3 phòng,3 WC,1,N/A,Đông Nam,Sổ hồng
+39 tỷ,"384/5C, Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",96 m²,8 phòng,9 WC,N/A,N/A,N/A,Sổ hồng
+14 tỷ,"218, Đường Nguyễn Thị Minh Khai, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",4 phòng,5 WC,2,N/A,Đông Bắc,Sổ đỏ
+41 tỷ,"Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"160 m² (12,0x20,0)",4 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"4,5 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ",18 m²,N/A,N/A,2,N/A,N/A,Giấy tờ hợp lệ
+14 tỷ,"Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","65 m² (4,0x17,5)",8 phòng,6 WC,4,N/A,N/A,Sổ đỏ
+"17,8 tỷ","Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"52 m² (5,5x11,0)",N/A,N/A,4,N/A,Tây Bắc,Sổ hồng
+"17,5 tỷ","Đường Trường Sa, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,51 m²,N/A,N/A,4,N/A,Tây Nam,Đang chờ sổ
+123 triệu,"Đường số 10, Phường 10, Quận 3, TP.HCM",Nhà mặt tiền,1.000 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+25 tỷ,"16/93/19, Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","289 m² (6,5x13,0)",8 phòng,8 WC,3,N/A,N/A,Sổ hồng
+32 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,100 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+55 tỷ,"Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"206 m² (12,0x20,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Điện Biên Phủ, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (3,6x16,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+80 tỷ,"Đường Trường Sa, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,"194 m² (10,0x29,0)",6 phòng,6 WC,2,N/A,N/A,Sổ hồng
+"11,9 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","53 m² (5,0x12,0)",5 phòng,6 WC,3,N/A,N/A,Sổ đỏ
+"8,5 tỷ","Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",42 m²,N/A,N/A,3,N/A,Đông Bắc,Sổ hồng
+14 tỷ,"218, Đường Nguyễn Thị Minh Khai, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",4 phòng,5 WC,2,N/A,Tây Bắc,Sổ đỏ
+"12,45 tỷ","Đường Hoàng Sa, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","126 m² (7,6x17,0)",6 phòng,N/A,6,N/A,N/A,Sổ hồng
+34 tỷ,"Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM",Nhà mặt tiền,"90 m² (4,0x26,0)",16 phòng,10 WC,N/A,N/A,N/A,Sổ hồng
+45 tỷ,"397, Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"79 m² (4,5x18,0)",6 phòng,6 WC,4,N/A,N/A,Sổ hồng
+42 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",160 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,"56 m² (3,5x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"22,5 tỷ","198, Đường Nguyễn Phúc Nguyên, Phường 9, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"8,3 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",33 m²,3 phòng,4 WC,4,N/A,Tây Nam,Sổ hồng
+"9,25 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,5,N/A,Tây Bắc,Sổ hồng
+"15,95 tỷ","Đường Nguyễn Đình Chiểu, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,40 m²,4 phòng,4 WC,5,N/A,N/A,Sổ hồng
+26 tỷ,"Đường Pasteur, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","120 m² (4,0x26,0)",N/A,N/A,6,N/A,N/A,Sổ hồng
+30 tỷ,"1066, Đường Trường Sa, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"65 m² (7,0x9,5)",10 phòng,10 WC,7,Nam,Nam,Sổ hồng
+119 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"220 m² (8,5x32,0)",N/A,N/A,7,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",21 m²,N/A,N/A,4,N/A,Tây Bắc,Sổ hồng
+37 tỷ,"Đường Bà Huyện Thanh Quan, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,130 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"11,28 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","66 m² (4,2x14,6)",3 phòng,3 WC,1,N/A,Đông Bắc,Sổ hồng
+"5,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","38 m² (4,4x9,0)",7 phòng,8 WC,4,N/A,N/A,Sổ hồng
+5 tỷ,"443/30B, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+220 tỷ,"104C, Đường Trần Quốc Toản, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","672,1 m² (25,0x27,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"3,8 tỷ","390/6/19, Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","29 m² (4,6x6,5)",2 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+66 tỷ,"Đường Hai Bà Trưng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,150 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+48 tỷ,"Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,120 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","43 m² (3,0x14,0)",3 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+24 tỷ,"Đường Hồ Xuân Hương, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"6,2 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (3,9x18,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+35 tỷ,"Đường số 3, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,3x20,0)",9 phòng,10 WC,7,N/A,N/A,Sổ hồng
+"29,5 tỷ","1066, Đường Trường Sa, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"64,3 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",34 m²,N/A,N/A,5,N/A,Tây Nam,Sổ hồng
+"1,78 tỷ","Đường Võ Thị Sáu, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",136 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,78 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","78 m² (5,5x12,5)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+450 tỷ,"15, Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"799 m² (20,0x40,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+"5,68 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","22 m² (3,0x7,3)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+400 tỷ,"93, Đường Cao Thắng, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"437 m² (11,4x40,0)",N/A,N/A,9,N/A,N/A,Sổ hồng
+550 tỷ,"157, Đường Pasteur, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"707 m² (19,0x38,0)",N/A,N/A,14,N/A,N/A,Sổ hồng
+"1,2 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,8 tỷ","Đường Nguyễn Hiền, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,4,N/A,Đông Bắc,Sổ hồng
+"5,65 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","23 m² (3,0x8,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+250 tỷ,"8, Đường Nguyễn Thông, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,341 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","105 m² (5,2x20,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+45 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"78,5 m² (4,5x18,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"6,3 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",34 m²,N/A,N/A,5,N/A,Đông Bắc,Sổ hồng
+"10,9 tỷ","Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",81 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+350 tỷ,"Đường Nguyễn Thông, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"341 m² (14,4x23,0)",N/A,N/A,N/A,N/A,Tây Nam,Sổ hồng
+"19,98 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","85 m² (5,0x17,0)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,8x12,0)",3 phòng,3 WC,3,Đông Bắc,Đông Bắc,Sổ hồng
+"6,6 tỷ","377, Đường Điện Biên Phủ, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"27 m² (4,0x6,8)",1 phòng,1 WC,1,Tây Bắc,Tây Bắc,Sổ hồng
+"13,9 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","80 m² (5,2x15,5)",4 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"7,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","36,3 m² (3,6x11,0)",4 phòng,4 WC,5,N/A,N/A,Sổ đỏ
+36 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,100 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+"7,1 tỷ","Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (3,7x15,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"26,5 tỷ","58/3, Đường Phạm Ngọc Thạch, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","68 m² (4,0x17,0)",3 phòng,3 WC,3,Đông Nam,Đông Nam,Sổ đỏ
+7 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","41 m² (3,8x11,0)",5 phòng,5 WC,5,Tây Nam,Tây Nam,Sổ hồng
+45 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"79 m² (4,6x17,5)",6 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+34 tỷ,"230, Đường Pasteur, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","120 m² (10,0x13,0)",6 phòng,6 WC,3,N/A,Tây Nam,Sổ hồng
+"7,95 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",33 m²,5 phòng,N/A,5,N/A,Đông Nam,Sổ hồng
+"13,5 tỷ","Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,4,N/A,Tây Nam,Sổ hồng
+8 tỷ,"Đường Nguyễn Đình Chiểu, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",28 m²,N/A,N/A,5,N/A,Tây Nam,Sổ hồng
+"6,8 tỷ","21/1/24, Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (3,2x15,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"81 m² (4,6x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"19,2 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ",75 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+"15,9 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,6,N/A,Tây Nam,Sổ hồng
+"5,2 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",34 m²,N/A,N/A,2,N/A,Tây Nam,Sổ hồng
+"5,5 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+"4,95 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (5,0x11,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+83 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"126,4 m² (8,2x17,7)",8 phòng,8 WC,6,Đông Bắc,Đông Bắc,Sổ hồng
+"8,2 tỷ","290a, Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,"18 m² (2,7x7,0)",2 phòng,3 WC,5,N/A,Tây Nam,Sổ hồng
+12 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","61 m² (5,8x10,6)",5 phòng,3 WC,2,Nam,Nam,Sổ hồng
+"5,9 tỷ","113/11, Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",3 phòng,2 WC,2,Đông Nam,Đông Nam,Sổ hồng
+138 tỷ,"Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"170 m² (10,0x18,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"7,48 tỷ","Đường Cư xá Đô Thành, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","55,4 m² (3,6x15,5)",2 phòng,2 WC,2,Tây,Tây,Sổ hồng
+65 tỷ,"449B-451, Đường Hai Bà Trưng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"133 m² (4,0x17,0)",8 phòng,8 WC,6,N/A,Đông Bắc,Sổ hồng
+"32,5 tỷ","854, Đường Trường Sa, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"71,5 m² (5,2x14,5)",N/A,N/A,7,Đông Nam,Đông Nam,Sổ hồng
+"13,8 tỷ","382/6, Đường Cao Thắng, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",250 m²,11 phòng,11 WC,5,N/A,N/A,Sổ hồng
+"5,7 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",32 m²,N/A,N/A,4,N/A,Tây Nam,Sổ hồng
+22 tỷ,"Đường Lý Thái Tổ, Phường 1, Quận 3, TP.HCM",Nhà mặt tiền,"110 m² (5,0x22,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+80 tỷ,"Đường Điện Biên Phủ, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,190 m²,N/A,N/A,4,N/A,N/A,Sổ hồng
+"96,3 tỷ","Đường Điện Biên Phủ, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"214 m² (6,0x35,6)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"10,89 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","85 m² (5,5x15,0)",4 phòng,4 WC,3,N/A,N/A,Giấy tờ hợp lệ
+49 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",170 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+37 tỷ,"Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+25 tỷ,"412C, Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"90 m² (5,0x18,0)",4 phòng,3 WC,N/A,N/A,N/A,Sổ đỏ
+75 tỷ,"Đường Sư Thiện Chiếu, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"251 m² (8,6x29,0)",N/A,N/A,1,N/A,Đông Nam,Sổ đỏ
+"22,5 tỷ","Đường Phạm Ngọc Thạch, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8 tỷ,"Đường Hoàng Sa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,2,N/A,Tây Nam,Sổ hồng
+"3,35 tỷ","Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x14,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+3 tỷ,"Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ",50 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"15,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",55 m²,N/A,N/A,3,N/A,Đông Nam,Sổ hồng
+"3,2 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ",30 m²,N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"2,76 tỷ","Đường Điện Biên Phủ, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"8,5 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","35 m² (5,0x7,0)",5 phòng,5 WC,5,N/A,Đông Nam,Sổ hồng
+19 tỷ,"Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM",Nhà mặt tiền,"61,5 m² (5,0x15,0)",5 phòng,5 WC,5,N/A,N/A,Sổ hồng
+"15,8 tỷ","Đường Lý Chính Thắng, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,31 m²,N/A,N/A,5,N/A,Đông Nam,Sổ hồng
+5 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","34 m² (3,3x11,0)",N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"3,39 tỷ","Đường Trương Định, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","55 m² (4,0x13,8)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"2,87 tỷ","Đường Cao Thắng, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","57 m² (4,0x14,3)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,27 tỷ","Đường Trần Văn Đang, Phường 10, Quận 3, TP.HCM",Nhà mặt tiền,58 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+46 tỷ,"Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,120 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,42 tỷ","Đường Điện Biên Phủ, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",60 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,85 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,0x11,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"2,99 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,5 WC,4,N/A,N/A,Sổ hồng
+"7,5 tỷ","Đường số 4, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (3,6x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Hoàng Sa, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,130 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,95 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,3x10,2)",4 phòng,N/A,N/A,Đông Nam,Đông Nam,Sổ hồng
+550 tỷ,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,"923 m² (30,0x35,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"2,4 tỷ","Đường Nguyễn Đình Chiểu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",52 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+85 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,139 m²,N/A,N/A,5,N/A,N/A,Sổ hồng
+120 tỷ,"Đường Cách Mạng Tháng 8, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"242 m² (12,5x20,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+208 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"320 m² (15,5x21,0)",N/A,N/A,2,N/A,N/A,Sổ hồng
+"3,34 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (5,0x12,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,65 tỷ","Hẻm 79, Đường Trần Văn Đang, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","23 m² (3,6x7,0)",1 phòng,2 WC,2,Tây Nam,Tây Nam,Sổ hồng
+"3,2 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,5x12,0)",4 phòng,5 WC,2,N/A,N/A,Sổ hồng
+14 tỷ,"322/4B, Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","69 m² (5,5x12,5)",6 phòng,2 WC,1,N/A,N/A,Sổ hồng
+33 tỷ,"97, Đường Trương Định, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"64,8 m² (3,8x17,2)",7 phòng,5 WC,6,Đông Bắc,Đông Bắc,Sổ hồng
+"5,5 tỷ","308/13, Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","44 m² (4,1x10,0)",2 phòng,1 WC,1,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Cách Mạng Tháng 8, Phường 10, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (5,5x9,5)",8 phòng,3 WC,3,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","60 m² (4,0x15,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"4,55 tỷ","Đường Nguyễn Thị Minh Khai, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","62 m² (4,0x15,5)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"2,68 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",3 phòng,3 WC,2,N/A,N/A,Sổ hồng
+"3,59 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","63 m² (5,0x12,6)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"17,9 tỷ","Đường Nguyễn Đình Chiểu, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","75 m² (4,0x20,0)",N/A,N/A,4,N/A,N/A,Sổ hồng
+"5,8 tỷ","Đường Nguyễn Thị Minh Khai, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",25 m²,4 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+"4,65 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (4,0x13,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"2,95 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","58 m² (4,0x14,5)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Nguyễn Phúc Nguyên, Phường 10, Quận 3, TP.HCM",Nhà mặt tiền,"77 m² (7,0x11,0)",3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+"23,5 tỷ","Đường Hồ Xuân Hương, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+77 tỷ,"Đường Trường Sa, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,200 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,43 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","76 m² (4,0x19,0)",4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+45 tỷ,"160A, Đường Võ Thị Sáu, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"85 m² (4,0x17,0)",N/A,2 WC,2,N/A,N/A,Sổ hồng
+9 tỷ,"16/78, Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","35 m² (4,0x11,0)",2 phòng,3 WC,4,Tây,Tây,Sổ hồng
+19 tỷ,"Đường Nguyễn Phúc Nguyên, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",10 phòng,10 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+"4,8 tỷ","Đường Điện Biên Phủ, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"27 m² (3,0x9,0)",1 phòng,1 WC,2,Đông Bắc,Đông Bắc,Sổ hồng
+"5,35 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",30 m²,2 phòng,N/A,3,N/A,Tây Nam,Sổ hồng
+"4,6 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","33 m² (3,3x10,0)",2 phòng,2 WC,3,N/A,N/A,Sổ hồng
+34 tỷ,"Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"105 m² (5,4x22,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+42 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,83 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Nguyễn Đình Chiểu, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","40 m² (4,0x10,0)",3 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"3,87 tỷ","Đường Võ Thị Sáu, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","66 m² (6,0x11,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"17,9 tỷ","Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"47 m² (3,4x14,0)",5 phòng,4 WC,5,N/A,N/A,Sổ hồng
+"16,95 tỷ","Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"72 m² (4,0x18,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+29 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"80 m² (4,0x20,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","68 m² (5,0x13,6)",4 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"3,85 tỷ","Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","64 m² (4,0x16,0)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"2,75 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+"8,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",50 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+"2,89 tỷ","Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+95 tỷ,"Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"191 m² (16,0x17,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,62 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ","49 m² (4,0x12,0)",3 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+64 tỷ,"Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"12,46 tỷ","Đường Trần Quang Diệu, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","128 m² (8,0x16,2)",6 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"4,65 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","80 m² (6,0x13,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"5,29 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","30 m² (3,0x10,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Nguyễn Thị Minh Khai, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",3 phòng,3 WC,3,N/A,N/A,Sổ hồng
+7 tỷ,"Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",36 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+2 tỷ,"Đường Điện Biên Phủ, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",40 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"4,7 tỷ","Đường Kỳ Đồng, Phường 9, Quận 3, TP.HCM","Nhà hẻm, ngõ","30,4 m² (3,5x8,0)",3 phòng,2 WC,N/A,N/A,Tây Nam,Sổ hồng
+"2,25 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ",58 m²,3 phòng,2 WC,N/A,N/A,N/A,Sổ hồng
+23 tỷ,"Đường Nguyễn Thông, Phường 9, Quận 3, TP.HCM",Nhà mặt tiền,"70 m² (4,4x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"5,5 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","35 m² (5,7x7,3)",3 phòng,3 WC,4,Tây Nam,Tây Nam,Sổ hồng
+"7,79 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,4 phòng,N/A,4,N/A,Tây Nam,Sổ hồng
+"11,9 tỷ","Đường Trần Văn Đang, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","70 m² (4,0x17,5)",7 phòng,5 WC,N/A,N/A,N/A,Sổ hồng
+"20,5 tỷ","453/77 c119-c21, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","90,5 m² (7,0x13,0)",13 phòng,13 WC,5,N/A,N/A,Sổ hồng
+"7,9 tỷ","Đường Cư xá Đô Thành, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,30 m²,3 phòng,3 WC,N/A,N/A,N/A,Giấy tờ hợp lệ
+37 tỷ,"Đường Trần Quốc Toản, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"10,7 tỷ","453/77F, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+50 tỷ,"Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"120 m² (5,0x17,0)",7 phòng,7 WC,6,N/A,N/A,Sổ hồng
+38 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","41 m² (3,7x12,0)",N/A,N/A,N/A,N/A,Tây Nam,Sổ hồng
+"11,9 tỷ","51/, Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,2x11,0)",4 phòng,3 WC,3,N/A,Đông Bắc,Sổ đỏ
+35 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"78 m² (3,9x21,0)",6 phòng,6 WC,4,N/A,N/A,Sổ hồng
+26 tỷ,"Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Nhà hẻm, ngõ","101 m² (7,2x12,0)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+35 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,80 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"10,7 tỷ","453/77F, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"6,9 tỷ","Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"1,62 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM",Nhà mặt tiền,"52 m² (4,0x13,0)",2 phòng,3 WC,N/A,N/A,N/A,Sổ hồng
+160 tỷ,"115/4, Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","344 m² (26,0x20,0)",5 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Huỳnh Tịnh Của, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","39 m² (3,0x13,0)",2 phòng,3 WC,1,N/A,N/A,Sổ hồng
+"3,8 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",68 m²,4 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+160 tỷ,"Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","339,7 m² (26,0x20,0)",4 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"8,7 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",46 m²,3 phòng,3 WC,4,N/A,N/A,Sổ hồng
+95 tỷ,"Đường Nam Kỳ Khởi Nghĩa, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"190 m² (16,0x16,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+660 tỷ,"Đường Nam Kỳ Khởi Nghĩa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"370 m² (22,0x17,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"42,5 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM","Biệt thự, Villa","207 m² (9,0x23,0)",4 phòng,5 WC,4,N/A,N/A,Giấy tờ hợp lệ
+75 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"165 m² (11,0x24,0)",4 phòng,6 WC,3,N/A,N/A,Giấy tờ hợp lệ
+"6,5 tỷ","Đường Phạm Đình Toái, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"109 m² (8,0x13,5)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+47 tỷ,"Đường Lý Chính Thắng, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"110 m² (8,0x17,0)",N/A,N/A,2,N/A,N/A,Giấy tờ hợp lệ
+"14,2 tỷ","Đường Lý Chính Thắng, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",78 m²,N/A,N/A,2,N/A,Tây Nam,Sổ hồng
+"6,7 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","31 m² (7,5x4,5)",2 phòng,3 WC,4,N/A,N/A,Sổ hồng
+30 tỷ,"Đường Trường Sa, Phường 14, Quận 3, TP.HCM",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+24 tỷ,"Đường Trần Quốc Toản, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"64 m² (4,0x16,0)",N/A,N/A,1,N/A,N/A,Sổ hồng
+47 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"85 m² (6,0x15,0)",5 phòng,7 WC,5,N/A,N/A,Giấy tờ hợp lệ
+120 tỷ,"Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"226 m² (14,0x16,0)",10 phòng,11 WC,7,N/A,N/A,Giấy tờ hợp lệ
+"7,2 tỷ","Đường Vườn Chuối, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ",36 m²,N/A,N/A,3,N/A,Tây Bắc,Sổ hồng
+10 tỷ,"175/45 Nguyễn Thiện Thuật, Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","43 m² (4,5x10,0)",5 phòng,5 WC,5,N/A,Tây Bắc,Sổ hồng
+320 tỷ,"Đường Trần Quốc Thảo, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"543,3 m² (12,6x39,0)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"8,2 tỷ","Đường Nguyễn Thiện Thuật, Phường 2, Quận 3, TP.HCM","Nhà hẻm, ngõ",41 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+41 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","160 m² (8,0x20,0)",5 phòng,6 WC,4,N/A,N/A,Giấy tờ hợp lệ
+40 tỷ,"Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"132 m² (4,0x25,0)",6 phòng,7 WC,5,N/A,N/A,Giấy tờ hợp lệ
+"2,2 tỷ","Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","49,5 m²",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"3,2 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ",68 m²,N/A,N/A,3,N/A,N/A,Sổ hồng
+"22,5 tỷ","Đường Phạm Ngọc Thạch, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","88 m² (4,2x21,0)",2 phòng,N/A,N/A,N/A,N/A,Sổ hồng
+"9,9 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ",43 m²,N/A,N/A,N/A,N/A,N/A,Sổ đỏ
+"1,85 tỷ","Đường Lý Chính Thắng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","56 m² (4,0x14,0)",4 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+500 tỷ,"Đường Võ Văn Tần, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"704,1 m² (20,2x35,0)",N/A,N/A,N/A,N/A,Tây Bắc,Sổ hồng
+"6,9 tỷ","Đường Trường Sa, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ",28 m²,2 phòng,N/A,4,N/A,Đông Nam,Sổ hồng
+"2,85 tỷ","Đường Lê Văn Sỹ, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,"45 m² (4,5x10,0)",3 phòng,2 WC,3,N/A,N/A,Sổ hồng
+"2,89 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"42 m² (4,0x10,5)",3 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,99 tỷ","Đường Cách Mạng Tháng 8, Phường 11, Quận 3, TP.HCM","Nhà hẻm, ngõ","36 m² (4,8x8,0)",2 phòng,2 WC,2,N/A,N/A,Sổ hồng
+"3,15 tỷ","Đường Hai Bà Trưng, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ",56 m²,5 phòng,4 WC,N/A,N/A,N/A,Sổ hồng
+"6,5 tỷ","69/21, Đường Cao Thắng, Phường 4, Quận 3, TP.HCM","Nhà hẻm, ngõ","48 m² (4,0x12,0)",4 phòng,4 WC,2,N/A,N/A,Sổ hồng
+"4,7 tỷ","Đường Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","24 m² (3,0x8,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+145 tỷ,"Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM",Nhà mặt tiền,"208 m² (13,0x28,0)",N/A,N/A,3,N/A,N/A,Sổ hồng
+"35,7 tỷ","Đường Nam Kỳ Khởi Nghĩa, Phường 7 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","170 m² (8,6x20,0)",4 phòng,5 WC,3,N/A,N/A,Sổ hồng
+"7,8 tỷ","Đường Bàn Cờ, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",35 m²,N/A,N/A,3,N/A,Tây Nam,Sổ hồng
+118 tỷ,"Đường Võ Văn Tần, Phường 5, Quận 3, TP.HCM",Nhà mặt tiền,"206 m² (5,0x8,5)",N/A,N/A,N/A,N/A,N/A,Sổ hồng
+"7,79 tỷ","18/, Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","48,6 m²",5 phòng,3 WC,2,N/A,N/A,Sổ hồng
+11 tỷ,"Đường Cao Thắng, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (5,0x10,0)",N/A,N/A,N/A,N/A,N/A,Giấy tờ hợp lệ
+"3,85 tỷ","Đường Nguyễn Thiện Thuật, Phường 1, Quận 3, TP.HCM","Nhà hẻm, ngõ","42 m² (4,0x10,5)",4 phòng,4 WC,4,N/A,N/A,Sổ hồng
+"14,9 tỷ","Đường Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM","Nhà hẻm, ngõ","54 m² (4,0x13,5)",5 phòng,5 WC,4,N/A,N/A,Sổ hồng
+9 tỷ,"Đường Hoàng Sa, Phường 8 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Nhà hẻm, ngõ","36 m² (4,0x10,0)",5 phòng,5 WC,N/A,N/A,N/A,Sổ đỏ
+"5,5 tỷ","Đường Trần Quang Diệu, Phường 13, Quận 3, TP.HCM",Nhà mặt tiền,36 m²,N/A,N/A,N/A,N/A,N/A,Sổ hồng
+140 tỷ,"230, Đường Pasteur, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM","Biệt thự, Villa","558 m² (23,0x26,0)",7 phòng,8 WC,N/A,Đông Nam,Đông Nam,Sổ hồng
+"5,2 tỷ","Đường Nguyễn Thiện Thuật, Phường 3, Quận 3, TP.HCM","Nhà hẻm, ngõ",28 m²,2 phòng,N/A,3,N/A,Đông Bắc,Sổ hồng
+215 tỷ,"510, Đường Nguyễn Đình Chiểu, Phường 4, Quận 3, TP.HCM",Nhà mặt tiền,"400 m² (17,0x25,0)",12 phòng,12 WC,4,Đông Nam,Đông Nam,Sổ hồng
+"10,9 tỷ","441A, Đường Lê Văn Sỹ, Phường 12, Quận 3, TP.HCM","Nhà hẻm, ngõ","50 m² (4,0x12,0)",3 phòng,4 WC,3,N/A,N/A,Sổ hồng
+"6,69 tỷ","Đường Trần Quang Diệu, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","52 m² (5,7x9,0)",3 phòng,3 WC,5,N/A,N/A,Sổ hồng
+32 tỷ,"Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM",Nhà mặt tiền,"81 m² (5,2x15,5)",8 phòng,9 WC,6,N/A,N/A,Giấy tờ hợp lệ
+"14,99 tỷ","Đường Lê Văn Sỹ, Phường 14, Quận 3, TP.HCM","Nhà hẻm, ngõ","98 m² (6,0x18,0)",3 phòng,3 WC,2,N/A,N/A,Giấy tờ hợp lệ
+85 tỷ,"Đường Nguyễn Thị Minh Khai, Phường 6 (Phường Võ Thị Sáu), Quận 3, TP.HCM",Nhà mặt tiền,"139 m² (4,0x34,0)",10 phòng,N/A,N/A,N/A,N/A,Sổ hồng
